@@ -1,0 +1,1033 @@
+2026-02-23 19:46:05.125914 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:46:05.156956 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:46:05.235292 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:46:06.708272 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:46:06.732687 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:46:06.863262 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:46:06.989322 - HIGH ALERT: powershell.exe spawned conhost.exe
+2026-02-23 19:46:07.033188 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:46:07.149395 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:46:07.164829 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:46:07.234210 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:46:07.245544 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:46:07.384818 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:46:07.490053 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:46:07.596279 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:46:07.604152 - HIGH ALERT: powershell.exe spawned python3.11.exe
+2026-02-23 19:46:17.643281 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:46:17.649640 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:46:17.668474 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:46:18.092075 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:46:18.100057 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:46:18.134714 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:46:18.168472 - HIGH ALERT: powershell.exe spawned conhost.exe
+2026-02-23 19:46:18.180800 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:46:18.212887 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:46:18.215875 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:46:18.243492 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:46:18.245478 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:46:18.277505 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:46:18.302437 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:46:18.325337 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:46:18.327340 - HIGH ALERT: powershell.exe spawned python3.11.exe
+2026-02-23 19:46:28.358985 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:46:28.365396 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:46:28.383210 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:46:28.794097 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:46:28.800123 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:46:28.839079 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:46:28.873408 - HIGH ALERT: powershell.exe spawned conhost.exe
+2026-02-23 19:46:28.883737 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:46:28.915071 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:46:28.917070 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:46:28.932941 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:46:28.934449 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:46:28.965711 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:46:28.996204 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:46:29.027879 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:46:29.032203 - HIGH ALERT: powershell.exe spawned python3.11.exe
+2026-02-23 19:46:39.093375 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:46:39.101984 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:46:39.120322 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:46:39.516187 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:46:39.526418 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:46:39.560541 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:46:39.595766 - HIGH ALERT: powershell.exe spawned conhost.exe
+2026-02-23 19:46:39.611820 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:46:39.650780 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:46:39.655746 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:46:39.672756 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:46:39.673755 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:46:39.704372 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:46:39.729605 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:46:39.750986 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:46:39.754974 - HIGH ALERT: powershell.exe spawned python3.11.exe
+2026-02-23 19:50:47.593218 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:50:47.627415 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:50:47.712903 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:50:48.443956 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:50:49.111355 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:50:49.136116 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:50:49.277325 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:50:49.423379 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:50:49.525105 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:50:49.539069 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:50:49.617858 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:50:49.628828 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:50:49.770455 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:50:49.770455 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:50:49.886140 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:50:49.994850 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:51:00.055066 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:51:00.067337 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:51:00.091205 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:51:00.286143 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:51:00.467374 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:51:00.473357 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:51:00.518363 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:51:00.555532 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:51:00.586448 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:51:00.588449 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:51:00.603401 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:51:00.604403 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:51:00.625887 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:51:00.628874 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:51:00.653557 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:51:00.671520 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:51:10.718776 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:51:10.726650 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:51:10.751905 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:51:10.945383 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:51:11.131032 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:51:11.138013 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:51:11.175187 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:51:11.220930 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:51:11.240844 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:51:11.243362 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:51:11.261960 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:51:11.268104 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:51:11.291594 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:51:11.292591 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:51:11.320068 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:51:11.340369 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:51:21.404485 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:51:21.418235 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:51:21.439806 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:51:21.636557 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:51:21.824981 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:51:21.835951 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:51:21.872854 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:51:21.921395 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:51:21.941340 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:51:21.943335 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:51:21.960082 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:51:21.966193 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:51:21.989863 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:51:21.989863 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:51:22.015474 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:51:22.037211 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:51:32.072342 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:51:32.083224 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:51:32.107082 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:51:32.304173 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:51:32.495183 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:51:32.500170 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:51:32.535092 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:51:32.573988 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:51:32.594972 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:51:32.598011 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:51:32.621196 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:51:32.622197 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:51:32.652077 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:51:32.652077 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:51:32.676263 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:51:32.703978 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:51:42.768660 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:51:42.777647 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:51:42.801071 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:51:42.995485 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:51:43.185188 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:51:43.192169 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:51:43.225646 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:51:43.272109 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:51:43.291053 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:51:43.294046 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:51:43.314287 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:51:43.318896 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:51:43.343131 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:51:43.345951 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:51:43.368408 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:51:43.389254 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:51:53.425723 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:51:53.434699 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:51:53.456640 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:51:53.676091 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:51:53.877854 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:51:53.881843 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:51:53.917742 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:51:53.955624 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:51:53.974585 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:51:53.977565 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:51:53.993521 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:51:53.994518 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:51:54.018456 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:51:54.019453 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:51:54.043139 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:51:54.072271 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:52:04.126112 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:52:04.135730 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:52:04.158035 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:52:04.360874 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:52:04.547368 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:52:04.552355 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:52:04.589324 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:52:04.638782 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:52:04.659249 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:52:04.661248 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:52:04.681288 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:52:04.685279 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:52:04.710299 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:52:04.711292 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:52:04.737284 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:52:04.756992 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:52:14.798846 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:52:14.809337 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:52:14.832617 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:52:15.022299 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:52:15.200112 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:52:15.208019 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:52:15.243809 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:52:15.283776 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:52:15.314324 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:52:15.316321 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:52:15.331281 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:52:15.333277 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:52:15.369979 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:52:15.370963 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:52:15.398314 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:52:15.419746 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:52:25.454277 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:52:25.464574 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:52:25.487845 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:52:25.683120 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:52:25.860654 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:52:25.865640 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:52:25.903072 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:52:25.952480 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:52:25.971804 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:52:25.974402 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:52:25.991675 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:52:25.997443 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:52:26.022185 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:52:26.023183 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:52:26.048550 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:52:26.067202 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:52:36.110084 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:52:36.117925 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:52:36.139525 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:52:36.329288 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:52:36.511532 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:52:36.515520 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:52:36.549431 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:52:36.587329 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:52:36.607274 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:52:36.609270 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:52:36.638648 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:52:36.641642 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:52:36.669585 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:52:36.670584 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:52:36.691429 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:52:36.716258 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:52:46.765975 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:52:46.774144 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:52:46.797678 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:52:47.016454 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:52:47.201184 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:52:47.207987 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:52:47.239901 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:52:47.278664 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:52:47.301831 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:52:47.303828 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:52:47.318788 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:52:47.319791 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:52:47.343931 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:52:47.344927 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:52:47.367886 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:52:47.387861 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:52:57.452382 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:52:57.461728 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:52:57.484233 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:52:57.687920 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:52:57.892893 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:52:57.897878 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:52:57.937148 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:52:57.983406 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:52:58.003968 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:52:58.006498 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:52:58.027887 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:52:58.029924 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:52:58.053412 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:52:58.054409 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:52:58.079816 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:52:58.099923 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:53:08.138596 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:53:08.150157 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:53:08.181088 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:53:08.379622 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:53:08.572267 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:53:08.577801 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:53:08.615827 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:53:08.658733 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:53:08.723860 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:53:08.725858 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:53:08.741582 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:53:08.742581 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:53:08.769380 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:53:08.769380 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:53:08.792524 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:53:08.819908 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:53:18.871314 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:53:18.881267 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:53:18.905414 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:53:19.104312 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:53:19.366498 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:53:19.376890 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:53:19.421720 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:53:19.464608 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:53:19.500934 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:53:19.502931 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:53:19.519137 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:53:19.521133 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:53:19.547173 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:53:19.547173 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:53:19.568708 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:53:19.589408 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:53:29.646661 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:53:29.655140 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:53:29.679503 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:53:29.883318 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:53:30.061843 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:53:30.068824 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:53:30.105960 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:53:30.147757 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:53:30.169476 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:53:30.171469 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:53:30.186429 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:53:30.188448 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:53:30.221401 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:53:30.222398 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:53:30.239352 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:53:30.264364 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:53:40.316279 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:53:40.327507 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:53:40.351594 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:53:40.547784 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:53:40.736550 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:53:40.742102 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:53:40.789729 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:53:40.825574 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:53:40.850542 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:53:40.852538 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:53:40.871530 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:53:40.878338 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:53:40.902902 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:53:40.904939 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:53:40.927889 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:53:40.947355 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:53:51.003100 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:53:51.013076 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:53:51.034296 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:53:51.231242 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:53:51.421888 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:53:51.430898 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:53:51.467534 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:53:51.504055 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:53:51.533554 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:53:51.535549 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:53:51.550330 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:53:51.552324 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:53:51.573269 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:53:51.573269 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:53:51.594337 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:53:51.612291 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:54:01.654626 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:54:01.665927 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:54:01.688536 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:54:01.891800 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:54:02.076160 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:54:02.083143 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:54:02.118326 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:54:02.157379 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:54:02.182239 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:54:02.184796 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:54:02.200297 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:54:02.201294 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:54:02.224049 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:54:02.225047 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:54:02.248093 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:54:02.272924 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:54:12.315085 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:54:12.325694 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:54:12.347955 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:54:12.542908 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:54:12.769318 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:54:12.776298 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:54:12.821177 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:54:12.863064 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:54:12.883010 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:54:12.885006 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:54:12.900963 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:54:12.902964 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:54:12.928934 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:54:12.929930 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:54:12.964184 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:54:13.006363 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:54:23.059028 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:54:23.069088 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:54:23.100672 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:54:23.308608 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:54:23.489996 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:54:23.496977 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:54:23.529888 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:54:23.565358 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:54:23.590147 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:54:23.595171 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:54:23.612297 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:54:23.614288 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:54:23.636463 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:54:23.637459 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:54:23.657404 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:54:23.689227 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:54:33.730548 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:54:33.740429 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:54:33.762140 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:54:33.960391 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:54:34.147618 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:54:34.153476 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:54:34.195226 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:54:34.235669 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:54:34.260968 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:54:34.262980 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:54:34.277389 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:54:34.278986 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:54:34.304533 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:54:34.304533 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:54:34.326433 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:54:34.346469 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:54:44.424917 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:54:44.443312 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:54:44.466750 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:54:44.663630 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:54:44.841527 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:54:44.846509 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:54:44.880419 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:54:44.917263 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:54:44.935217 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:54:44.936217 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:54:44.949182 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:54:44.950179 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:54:44.987205 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:54:44.988206 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:54:45.014169 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:54:45.037047 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:54:55.097590 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:54:55.108157 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:54:55.130082 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:54:55.332502 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:54:55.537243 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:54:55.543235 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:54:55.580155 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:54:55.618619 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:54:55.642706 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:54:55.666640 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:54:55.681469 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:54:55.682454 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:54:55.707720 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:54:55.708717 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:54:55.729813 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:54:55.755111 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:55:05.791990 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:55:05.801253 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:55:05.826601 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:55:06.035481 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:55:06.213847 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:55:06.217997 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:55:06.247982 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:55:06.274960 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:55:06.296852 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:55:06.300685 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:55:06.309488 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:55:06.309488 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:55:06.321459 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:55:06.321459 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:55:06.336659 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:55:06.351299 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:55:16.381863 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:55:16.388808 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:55:16.407152 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:55:16.620474 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:55:16.828113 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:55:16.832102 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:55:16.862142 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:55:16.892355 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:55:16.907082 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:55:16.924040 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:55:16.932025 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:55:16.933014 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:55:16.947850 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:55:16.947850 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:55:16.961854 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:55:16.976698 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:55:27.029921 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:55:27.036893 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:55:27.058898 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:55:27.250843 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:55:27.427840 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:55:27.432798 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:55:27.461325 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:55:27.488327 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:55:27.504651 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:55:27.512616 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:55:27.519575 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:55:27.522576 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:55:27.535466 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:55:27.535466 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:55:27.550500 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:55:27.564438 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:55:37.593808 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:55:37.601020 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:55:37.620728 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:55:37.791969 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:55:37.966067 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:55:37.970020 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:55:37.998616 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:55:38.027207 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:55:38.042733 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:55:38.049763 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:55:38.058662 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:55:38.059661 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:55:38.073710 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:55:38.073710 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:55:38.084924 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:55:38.099998 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:55:48.132516 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:55:48.140633 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:55:48.169930 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:55:48.341746 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:55:48.520443 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:55:48.524091 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:55:48.553972 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:55:48.582369 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:55:48.597238 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:55:48.615508 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:55:48.623065 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:55:48.626106 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:55:48.637659 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:55:48.637659 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:55:48.651877 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:55:48.666246 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:55:58.701359 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:55:58.708997 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:55:58.727912 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:55:58.909786 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:55:59.082162 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:55:59.087765 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:55:59.117664 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:55:59.144536 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:55:59.163485 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:55:59.173458 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:55:59.181439 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:55:59.182451 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:55:59.191411 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:55:59.192409 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:55:59.204376 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:55:59.216344 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:56:09.267925 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:56:09.276903 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:56:09.298851 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:56:09.547073 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:56:09.720655 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:56:09.725651 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:56:09.756040 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:56:09.786947 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:56:09.802847 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:56:09.813033 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:56:09.822624 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:56:09.822624 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:56:09.835590 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:56:09.836588 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:56:09.851547 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:56:09.866408 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:56:19.906309 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:56:19.916177 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:56:19.936680 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:56:20.119133 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:56:20.313174 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:56:20.317692 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:56:20.348121 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:56:20.377283 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:56:20.392228 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:56:20.398966 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:56:20.407213 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:56:20.408217 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:56:20.421208 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:56:20.421208 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:56:20.436513 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:56:20.449481 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:56:30.500913 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:56:30.508820 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:56:30.528312 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:56:30.697451 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:56:30.865811 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:56:30.869584 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:56:30.904543 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:56:30.944136 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:56:30.966884 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:56:30.971475 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:56:30.983264 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:56:30.984017 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:56:31.000975 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:56:31.000975 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:56:31.019122 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:56:31.038073 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:56:41.068977 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:56:41.076958 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:56:41.097143 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:56:41.278254 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:56:41.464418 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:56:41.468452 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:56:41.498871 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:56:41.529177 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:56:41.544263 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:56:41.549208 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:56:41.559028 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:56:41.560065 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:56:41.573091 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:56:41.573091 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:56:41.589105 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:56:41.602722 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:56:51.632569 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:56:51.640551 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:56:51.660301 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:56:51.824929 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:56:51.990800 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:56:51.994559 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:56:52.024327 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:56:52.053736 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:56:52.068856 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:56:52.075359 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:56:52.083825 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:56:52.085822 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:56:52.101497 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:56:52.102513 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:56:52.119391 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:56:52.134221 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:57:02.163231 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:57:02.172097 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:57:02.193505 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:57:02.374060 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:57:02.644582 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:57:02.649576 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:57:02.698438 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:57:02.730903 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:57:02.747847 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:57:02.751834 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:57:02.761808 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:57:02.761808 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:57:02.774774 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:57:02.774774 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:57:02.789732 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:57:02.805690 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:57:12.843439 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:57:12.853413 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:57:12.879534 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:57:13.086220 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:57:13.262023 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:57:13.266788 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:57:13.295849 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:57:13.324753 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:57:13.339833 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:57:13.343825 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:57:13.353271 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:57:13.353271 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:57:13.367686 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:57:13.367686 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:57:13.383446 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:57:13.397689 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:57:23.424759 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:57:23.432744 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:57:23.455679 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:57:23.642843 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:57:23.818394 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:57:23.821387 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:57:23.852336 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:57:23.881945 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:57:23.896999 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:57:23.900986 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:57:23.908713 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:57:23.910785 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:57:23.923703 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:57:23.923703 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:57:23.939108 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:57:23.952588 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:57:33.986077 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:57:33.994780 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:57:34.014380 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:57:34.197321 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:57:34.373550 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:57:34.378427 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:57:34.408274 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:57:34.439128 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:57:34.454077 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:57:34.458069 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:57:34.467935 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:57:34.467935 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:57:34.482190 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:57:34.483188 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:57:34.497448 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:57:34.511372 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:57:44.560280 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:57:44.568120 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:57:44.588921 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:57:44.770421 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:57:44.960130 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:57:44.964125 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:57:44.994865 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:57:45.024405 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:57:45.039702 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:57:45.044966 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:57:45.052579 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:57:45.053588 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:57:45.066279 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:57:45.066279 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:57:45.080247 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:57:45.093969 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:57:55.124593 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:57:55.132409 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:57:55.151376 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:57:55.328997 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:57:55.492922 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:57:55.495916 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:57:55.527920 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:57:55.559398 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:57:55.591228 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:57:55.595369 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:57:55.606378 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:57:55.606378 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:57:55.620954 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:57:55.620954 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:57:55.635296 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:57:55.650236 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:58:05.693479 - MEDIUM ALERT: Unknown parent for csrss.exe
+2026-02-23 19:58:05.702365 - MEDIUM ALERT: Unknown parent for wininit.exe
+2026-02-23 19:58:05.723204 - HIGH ALERT: cmd.exe spawned conhost.exe
+2026-02-23 19:58:05.908188 - HIGH ALERT: cmd.exe spawned python3.11.exe
+2026-02-23 19:58:06.079042 - MEDIUM ALERT: Unknown parent for SynTPHelper.exe
+2026-02-23 19:58:06.082394 - MEDIUM ALERT: Unknown parent for explorer.exe
+2026-02-23 19:58:06.112265 - MEDIUM ALERT: Unknown parent for Discord.exe
+2026-02-23 19:58:06.139740 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:58:06.157937 - MEDIUM ALERT: Unknown parent for OneDrive.Sync.Service.exe
+2026-02-23 19:58:06.161505 - MEDIUM ALERT: Unknown parent for DiscordSystemHelper.exe
+2026-02-23 19:58:06.174537 - MEDIUM ALERT: Unknown parent for BraveCrashHandler.exe
+2026-02-23 19:58:06.174537 - MEDIUM ALERT: Unknown parent for BraveCrashHandler64.exe
+2026-02-23 19:58:06.187765 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp running from TEMP folder
+2026-02-23 19:58:06.187765 - HIGH ALERT: Temporary file executed -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp
+2026-02-23 19:58:06.200603 - MEDIUM ALERT: Unknown parent for RAVCpl64.exe
+2026-02-23 19:58:06.214851 - HIGH ALERT: CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe running from TEMP folder
+2026-02-23 19:58:15.122662 - MEDIUM RISK (5) -> conhost.exe | ['Spawned by Script Engine']
+2026-02-23 19:58:15.666169 - MEDIUM RISK (5) -> python3.11.exe | ['Spawned by Script Engine']
+2026-02-23 19:58:17.041390 - HIGH RISK (10) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp | ['Running from Temp Folder', 'Temporary File Execution']
+2026-02-23 19:58:17.243099 - MEDIUM RISK (5) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe | ['Running from Temp Folder']
+2026-02-23 19:58:27.334873 - MEDIUM RISK (5) -> conhost.exe | ['Spawned by Script Engine']
+2026-02-23 19:58:27.464058 - MEDIUM RISK (5) -> python3.11.exe | ['Spawned by Script Engine']
+2026-02-23 19:58:27.767309 - HIGH RISK (10) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp | ['Running from Temp Folder', 'Temporary File Execution']
+2026-02-23 19:58:27.794869 - MEDIUM RISK (5) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe | ['Running from Temp Folder']
+2026-02-23 19:58:37.853127 - MEDIUM RISK (5) -> conhost.exe | ['Spawned by Script Engine']
+2026-02-23 19:58:37.983815 - MEDIUM RISK (5) -> python3.11.exe | ['Spawned by Script Engine']
+2026-02-23 19:58:38.288968 - HIGH RISK (10) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp | ['Running from Temp Folder', 'Temporary File Execution']
+2026-02-23 19:58:38.316263 - MEDIUM RISK (5) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe | ['Running from Temp Folder']
+2026-02-23 19:58:48.381065 - MEDIUM RISK (5) -> conhost.exe | ['Spawned by Script Engine']
+2026-02-23 19:58:48.515282 - MEDIUM RISK (5) -> python3.11.exe | ['Spawned by Script Engine']
+2026-02-23 19:58:48.824083 - HIGH RISK (10) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp | ['Running from Temp Folder', 'Temporary File Execution']
+2026-02-23 19:58:48.851054 - MEDIUM RISK (5) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe | ['Running from Temp Folder']
+2026-02-23 20:34:00.129344 - MEDIUM RISK (5) -> conhost.exe | ['Spawned by Script Engine']
+2026-02-23 20:34:01.633669 - MEDIUM RISK (5) -> python3.11.exe | ['Spawned by Script Engine']
+2026-02-23 20:34:01.785058 - HIGH RISK (10) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp | ['Running from Temp Folder', 'Temporary File Execution']
+2026-02-23 20:34:01.958597 - MEDIUM RISK (5) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe | ['Running from Temp Folder']
+2026-02-23 20:34:12.676759 - MEDIUM RISK (5) -> conhost.exe | ['Spawned by Script Engine']
+2026-02-23 20:34:12.983982 - MEDIUM RISK (5) -> python3.11.exe | ['Spawned by Script Engine']
+2026-02-23 20:34:12.994162 - HIGH RISK (10) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp | ['Running from Temp Folder', 'Temporary File Execution']
+2026-02-23 20:34:13.011119 - MEDIUM RISK (5) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe | ['Running from Temp Folder']
+2026-02-23 20:34:23.385105 - MEDIUM RISK (5) -> conhost.exe | ['Spawned by Script Engine']
+2026-02-23 20:34:23.693282 - MEDIUM RISK (5) -> python3.11.exe | ['Spawned by Script Engine']
+2026-02-23 20:34:23.702299 - HIGH RISK (10) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp | ['Running from Temp Folder', 'Temporary File Execution']
+2026-02-23 20:34:23.719254 - MEDIUM RISK (5) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe | ['Running from Temp Folder']
+2026-02-23 20:34:34.060130 - MEDIUM RISK (5) -> conhost.exe | ['Spawned by Script Engine']
+2026-02-23 20:34:34.358112 - MEDIUM RISK (5) -> python3.11.exe | ['Spawned by Script Engine']
+2026-02-23 20:34:34.367137 - HIGH RISK (10) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp | ['Running from Temp Folder', 'Temporary File Execution']
+2026-02-23 20:34:34.384046 - MEDIUM RISK (5) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe | ['Running from Temp Folder']
+2026-02-23 20:34:44.747280 - MEDIUM RISK (5) -> conhost.exe | ['Spawned by Script Engine']
+2026-02-23 20:34:45.051468 - MEDIUM RISK (5) -> python3.11.exe | ['Spawned by Script Engine']
+2026-02-23 20:34:45.060446 - HIGH RISK (10) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp | ['Running from Temp Folder', 'Temporary File Execution']
+2026-02-23 20:34:45.077656 - MEDIUM RISK (5) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe | ['Running from Temp Folder']
+2026-02-23 20:34:55.436525 - MEDIUM RISK (5) -> conhost.exe | ['Spawned by Script Engine']
+2026-02-23 20:34:55.741627 - MEDIUM RISK (5) -> python3.11.exe | ['Spawned by Script Engine']
+2026-02-23 20:34:55.751643 - HIGH RISK (10) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp | ['Running from Temp Folder', 'Temporary File Execution']
+2026-02-23 20:34:55.769725 - MEDIUM RISK (5) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe | ['Running from Temp Folder']
+2026-02-23 20:35:06.113013 - MEDIUM RISK (5) -> conhost.exe | ['Spawned by Script Engine']
+2026-02-23 20:35:06.429568 - MEDIUM RISK (5) -> python3.11.exe | ['Spawned by Script Engine']
+2026-02-23 20:35:06.439418 - HIGH RISK (10) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp | ['Running from Temp Folder', 'Temporary File Execution']
+2026-02-23 20:35:06.456375 - MEDIUM RISK (5) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe | ['Running from Temp Folder']
+2026-02-23 20:35:44.481020 - MEDIUM RISK (5) -> conhost.exe | ['Spawned by Script Engine']
+2026-02-23 20:35:44.819114 - MEDIUM RISK (5) -> python3.11.exe | ['Spawned by Script Engine']
+2026-02-23 20:35:44.829937 - HIGH RISK (10) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp | ['Running from Temp Folder', 'Temporary File Execution']
+2026-02-23 20:35:44.852846 - MEDIUM RISK (5) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe | ['Running from Temp Folder']
+2026-02-23 20:44:39.785294 - MEDIUM RISK (5) -> conhost.exe | ['Spawned by Script Engine']
+2026-02-23 20:44:39.873102 - MEDIUM RISK (5) -> python3.11.exe | ['Spawned by Script Engine']
+2026-02-23 20:44:41.474510 - HIGH RISK (10) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp | ['Running from Temp Folder', 'Temporary File Execution']
+2026-02-23 20:44:41.651081 - MEDIUM RISK (5) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe | ['Running from Temp Folder']
+2026-02-23 20:51:27.316044 - MEDIUM RISK (5) -> conhost.exe | ['Spawned by Script Engine']
+2026-02-23 20:51:28.891442 - MEDIUM RISK (5) -> python3.11.exe | ['Spawned by Script Engine']
+2026-02-23 20:51:29.078946 - HIGH RISK (10) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp | ['Running from Temp Folder', 'Temporary File Execution']
+2026-02-23 20:51:29.253568 - MEDIUM RISK (5) -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe | ['Running from Temp Folder']
+2026-02-23 20:56:35.454269 - {"timestamp": "2026-02-23 20:56:35.451966", "type": "PROCESS", "pid": 1064, "ppid": 5280, "name": "conhost.exe", "path": "C:\\Windows\\System32\\conhost.exe", "parent": "cmd.exe", "sha256": "b02ee54fb2ec69673386d41119ee8ed083a6eab3bfca6aa2155d20ce68ef8963", "risk_score": 5, "reasons": ["Spawned by Script Engine"]}
+2026-02-23 20:56:37.141636 - {"timestamp": "2026-02-23 20:56:37.139640", "type": "PROCESS", "pid": 11876, "ppid": 5280, "name": "python3.11.exe", "path": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python3.11.exe", "parent": "cmd.exe", "sha256": "ea21d2833698f5bf74e44b7125855336a7bc1291be6983532109b016f9859257", "risk_score": 5, "reasons": ["Spawned by Script Engine"]}
+2026-02-23 20:56:37.272286 - {"timestamp": "2026-02-23 20:56:37.270292", "type": "PROCESS", "pid": 12976, "ppid": 15056, "name": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp", "path": "C:\\Users\\USER\\AppData\\Local\\Temp\\is-28CB0.tmp\\CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp", "parent": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe", "sha256": "8c1b648f71670b71749d5bd0a24e1f6bbef518e5b308e254a213483b0c905f16", "risk_score": 10, "reasons": ["Running from Temp Folder", "Temporary File Execution"]}
+2026-02-23 20:56:37.882028 - {"timestamp": "2026-02-23 20:56:37.879703", "type": "PROCESS", "pid": 15056, "ppid": 10268, "name": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe", "parent": "Code.exe", "sha256": "fec669fd20fd33d5a8d5d46f5c4287059bdefaea9210595f0f97b6cc49b0e8c9", "risk_score": 5, "reasons": ["Running from Temp Folder"]}
+2026-02-23 20:59:35.887732 - {"timestamp": "2026-02-23 20:59:35.885847", "type": "PROCESS", "pid": 1064, "ppid": 5280, "name": "conhost.exe", "path": "C:\\Windows\\System32\\conhost.exe", "parent": "cmd.exe", "process_chain": "conhost.exe -> cmd.exe -> explorer.exe", "sha256": "b02ee54fb2ec69673386d41119ee8ed083a6eab3bfca6aa2155d20ce68ef8963", "risk_score": 5, "reasons": ["Spawned by Script Engine"]}
+2026-02-23 20:59:37.135810 - {"timestamp": "2026-02-23 20:59:37.133674", "type": "PROCESS", "pid": 7784, "ppid": 5280, "name": "python3.11.exe", "path": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python3.11.exe", "parent": "cmd.exe", "process_chain": "python3.11.exe -> cmd.exe -> explorer.exe", "sha256": "ea21d2833698f5bf74e44b7125855336a7bc1291be6983532109b016f9859257", "risk_score": 5, "reasons": ["Spawned by Script Engine"]}
+2026-02-23 20:59:37.640959 - {"timestamp": "2026-02-23 20:59:37.639034", "type": "PROCESS", "pid": 12976, "ppid": 15056, "name": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp", "path": "C:\\Users\\USER\\AppData\\Local\\Temp\\is-28CB0.tmp\\CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp", "parent": "codesetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe", "process_chain": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe -> Code.exe -> explorer.exe", "sha256": "8c1b648f71670b71749d5bd0a24e1f6bbef518e5b308e254a213483b0c905f16", "risk_score": 10, "reasons": ["Running from Temp Folder", "Temporary File Execution"]}
+2026-02-23 20:59:38.259635 - {"timestamp": "2026-02-23 20:59:38.257763", "type": "PROCESS", "pid": 15056, "ppid": 10268, "name": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe", "parent": "code.exe", "process_chain": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe -> Code.exe -> explorer.exe", "sha256": "fec669fd20fd33d5a8d5d46f5c4287059bdefaea9210595f0f97b6cc49b0e8c9", "risk_score": 5, "reasons": ["Running from Temp Folder"]}
+2026-02-23 21:05:19.030473 - {"timestamp": "2026-02-23 21:05:19.005495", "type": "PROCESS", "pid": 72, "ppid": 820, "name": "WUDFHost.exe", "path": "C:\\Windows\\System32\\WUDFHost.exe", "parent": "services.exe", "process_chain": "WUDFHost.exe -> services.exe -> wininit.exe", "sha256": "3d5b7140db7b1463fdd2c2f2c58d5fa6582b91ed5591167985ae06b1905f5a79", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:19.131689 - {"timestamp": "2026-02-23 21:05:19.116044", "type": "PROCESS", "pid": 404, "ppid": 4, "name": "smss.exe", "path": "C:\\Windows\\System32\\smss.exe", "parent": "system", "process_chain": "smss.exe -> System", "sha256": "7fd480e87a53902476a8803a7932156601b349b7f9a5618e7739aeb340666a6d", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:19.189224 - {"timestamp": "2026-02-23 21:05:19.178767", "type": "PROCESS", "pid": 636, "ppid": 628, "name": "csrss.exe", "path": "C:\\Windows\\System32\\csrss.exe", "parent": "Unknown", "process_chain": "csrss.exe", "sha256": "9e63d657b41e13b75aebb261e7f93c0655d52ee82811b37e7470f4119e5b6054", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:19.262566 - {"timestamp": "2026-02-23 21:05:19.236616", "type": "PROCESS", "pid": 672, "ppid": 820, "name": "svchost.exe", "path": "C:\\Windows\\System32\\svchost.exe", "parent": "services.exe", "process_chain": "svchost.exe -> services.exe -> wininit.exe", "sha256": "b0b36bff7ae4057f687d839cd4b3d81159ab646f1ee1b22106a927e93decbb61", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:19.380344 - {"timestamp": "2026-02-23 21:05:19.371368", "type": "PROCESS", "pid": 744, "ppid": 628, "name": "wininit.exe", "path": "C:\\Windows\\System32\\wininit.exe", "parent": "Unknown", "process_chain": "wininit.exe", "sha256": "e617c0505526bcd94c76a5831dc4ada3786210d7fc4c1c148937aaf94b19621a", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:19.574828 - {"timestamp": "2026-02-23 21:05:19.557833", "type": "PROCESS", "pid": 820, "ppid": 744, "name": "services.exe", "path": "C:\\Windows\\System32\\services.exe", "parent": "wininit.exe", "process_chain": "services.exe -> wininit.exe", "sha256": "4a912dc98c977788131aad0ae468d86792211ed225f80b2c344a3690b4437428", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:19.641444 - {"timestamp": "2026-02-23 21:05:19.623621", "type": "PROCESS", "pid": 828, "ppid": 744, "name": "lsass.exe", "path": "C:\\Windows\\System32\\lsass.exe", "parent": "wininit.exe", "process_chain": "lsass.exe -> wininit.exe", "sha256": "9adbe3644f310659560b8f4e4510744c9253e6d0c0ea2d98689013bb57ebc3c4", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:19.736966 - {"timestamp": "2026-02-23 21:05:19.707071", "type": "PROCESS", "pid": 948, "ppid": 1588, "name": "pet.exe", "path": "C:\\Users\\USER\\.vscode\\extensions\\ms-python.vscode-python-envs-1.16.0-win32-x64\\python-env-tools\\bin\\pet.exe", "parent": "code.exe", "process_chain": "pet.exe -> Code.exe -> Code.exe -> explorer.exe", "sha256": "116438aec169c78918bbfd58a2bdf3892bce36063a7c868a6e39399608b8506f", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:19.864337 - {"timestamp": "2026-02-23 21:05:19.846081", "type": "PROCESS", "pid": 976, "ppid": 744, "name": "fontdrvhost.exe", "path": "C:\\Windows\\System32\\fontdrvhost.exe", "parent": "wininit.exe", "process_chain": "fontdrvhost.exe -> wininit.exe", "sha256": "3c5d14682b5787ca00c5aa6ff5df5ee8b28d55af2f965ae6744337889a7c5be6", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:19.929074 - {"timestamp": "2026-02-23 21:05:19.908127", "type": "PROCESS", "pid": 1064, "ppid": 5280, "name": "conhost.exe", "path": "C:\\Windows\\System32\\conhost.exe", "parent": "cmd.exe", "process_chain": "conhost.exe -> cmd.exe -> explorer.exe", "sha256": "b02ee54fb2ec69673386d41119ee8ed083a6eab3bfca6aa2155d20ce68ef8963", "digital_signature": "Unknown", "risk_score": 10, "reasons": ["Spawned by Script Engine", "Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:20.080372 - {"timestamp": "2026-02-23 21:05:20.043474", "type": "PROCESS", "pid": 1120, "ppid": 740, "name": "winlogon.exe", "path": "C:\\Windows\\System32\\winlogon.exe", "parent": "svchost.exe", "process_chain": "winlogon.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "ba66849fcd4cd676dce2e747df9fc6bca27293ec6e0f8ed6f87340b9c35cb0f8", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:20.157959 - {"timestamp": "2026-02-23 21:05:20.136907", "type": "PROCESS", "pid": 1148, "ppid": 5004, "name": "brave.exe", "path": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe", "parent": "brave.exe", "process_chain": "brave.exe -> brave.exe -> explorer.exe", "sha256": "52a784be19e3f6418e8906b11e9b6e6c384fde210a5f27e4790a6b1558ef7188", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:20.672378 - {"timestamp": "2026-02-23 21:05:20.646449", "type": "PROCESS", "pid": 1392, "ppid": 820, "name": "DolbyDAX2API.exe", "path": "C:\\Program Files\\Dolby\\Dolby DAX2\\DAX2_API\\DolbyDAX2API.exe", "parent": "services.exe", "process_chain": "DolbyDAX2API.exe -> services.exe -> wininit.exe", "sha256": "8b3656c1e309560a272ad75ceef46d91f59bd025672bfb61563f3fe4ba0a9df2", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:20.751100 - {"timestamp": "2026-02-23 21:05:20.717505", "type": "PROCESS", "pid": 1400, "ppid": 6856, "name": "ctfmon.exe", "path": "C:\\Windows\\System32\\ctfmon.exe", "parent": "svchost.exe", "process_chain": "ctfmon.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "484fed5f039f429ed933931ba607b7efda7d1a343d79cfab60910e1843147012", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:21.074971 - {"timestamp": "2026-02-23 21:05:21.040198", "type": "PROCESS", "pid": 1580, "ppid": 820, "name": "IntelCpHDCPSvc.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_51f685305808e3a5\\IntelCpHDCPSvc.exe", "parent": "services.exe", "process_chain": "IntelCpHDCPSvc.exe -> services.exe -> wininit.exe", "sha256": "fe3b9de5cc1dee09d88946b7235c513561db0bb7e37f3ea531bd5e077b36f9f1", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:21.944979 - {"timestamp": "2026-02-23 21:05:21.923763", "type": "PROCESS", "pid": 1588, "ppid": 10268, "name": "Code.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe", "parent": "code.exe", "process_chain": "Code.exe -> Code.exe -> explorer.exe", "sha256": "c4cd7b3eee10cd2a809488e907e70aab9c7a2f9210209752e4ec7fae5fb394a7", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:22.105145 - {"timestamp": "2026-02-23 21:05:22.058270", "type": "PROCESS", "pid": 1656, "ppid": 1120, "name": "dwm.exe", "path": "C:\\Windows\\System32\\dwm.exe", "parent": "winlogon.exe", "process_chain": "dwm.exe -> winlogon.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "5974637971f604bdec89eeadf5bc3f8621c2845e6cc071b25ef42f22e12ee75c", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:22.240882 - {"timestamp": "2026-02-23 21:05:22.216975", "type": "PROCESS", "pid": 1884, "ppid": 820, "name": "IntelCpHeciSvc.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_51f685305808e3a5\\IntelCpHeciSvc.exe", "parent": "services.exe", "process_chain": "IntelCpHeciSvc.exe -> services.exe -> wininit.exe", "sha256": "5dff50dc5d2770a0ab4c7485e655835ef8e263f605ae7b134e743e7e0f5b42c6", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:22.509584 - {"timestamp": "2026-02-23 21:05:22.479944", "type": "PROCESS", "pid": 2148, "ppid": 820, "name": "ibmpmsvc.exe", "path": "C:\\Windows\\System32\\ibmpmsvc.exe", "parent": "services.exe", "process_chain": "ibmpmsvc.exe -> services.exe -> wininit.exe", "sha256": "9ed67b9cfca4d67a2dfab9890a784c8f3f51eec32f02fb7327da77fb64a2dd27", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:24.823215 - {"timestamp": "2026-02-23 21:05:24.798067", "type": "PROCESS", "pid": 2784, "ppid": 820, "name": "igfxCUIService.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\cui_dch.inf_amd64_38cfab2b652e4701\\igfxCUIService.exe", "parent": "services.exe", "process_chain": "igfxCUIService.exe -> services.exe -> wininit.exe", "sha256": "5d0b51ad859e13c8ad0550d5c3b4932030242958f356fae40ce8f8ac141b3c82", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:26.062475 - {"timestamp": "2026-02-23 21:05:26.037588", "type": "PROCESS", "pid": 3240, "ppid": 820, "name": "RtkAudioService64.exe", "path": "C:\\Program Files\\Realtek\\Audio\\HDA\\RtkAudioService64.exe", "parent": "services.exe", "process_chain": "RtkAudioService64.exe -> services.exe -> wininit.exe", "sha256": "7b672889a8166400229adca82f2249e354397733dce9ae8256478ac2193c6f98", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:26.144725 - {"timestamp": "2026-02-23 21:05:26.111367", "type": "PROCESS", "pid": 3284, "ppid": 2868, "name": "dasHost.exe", "path": "C:\\Windows\\System32\\dasHost.exe", "parent": "svchost.exe", "process_chain": "dasHost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "62070aebd1589521667d1db4a81ddebadfc0b4e7add091536abd08a7968ba605", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:26.465473 - {"timestamp": "2026-02-23 21:05:26.436547", "type": "PROCESS", "pid": 3564, "ppid": 9480, "name": "powershell.exe", "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "parent": "code.exe", "process_chain": "powershell.exe -> Code.exe -> Code.exe -> explorer.exe", "sha256": "9785001b0dcf755eddb8af294a373c0b87b2498660f724e76c4d53f9c217c7a3", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:26.549048 - {"timestamp": "2026-02-23 21:05:26.514140", "type": "PROCESS", "pid": 3612, "ppid": 3428, "name": "wlanext.exe", "path": "C:\\Windows\\System32\\wlanext.exe", "parent": "svchost.exe", "process_chain": "wlanext.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "8456099deb994f309fde890e4f0e571a0a67f9b7dd079516905175cd1500fa52", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:26.627637 - {"timestamp": "2026-02-23 21:05:26.601689", "type": "PROCESS", "pid": 3652, "ppid": 820, "name": "spoolsv.exe", "path": "C:\\Windows\\System32\\spoolsv.exe", "parent": "services.exe", "process_chain": "spoolsv.exe -> services.exe -> wininit.exe", "sha256": "6574a65649a3f1776702cdc32bdeedf27fd6cbacf4dfd3fab457fc9657d342b4", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:26.716583 - {"timestamp": "2026-02-23 21:05:26.669741", "type": "PROCESS", "pid": 3664, "ppid": 3612, "name": "conhost.exe", "path": "C:\\Windows\\System32\\conhost.exe", "parent": "wlanext.exe", "process_chain": "conhost.exe -> wlanext.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "b02ee54fb2ec69673386d41119ee8ed083a6eab3bfca6aa2155d20ce68ef8963", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:27.234463 - {"timestamp": "2026-02-23 21:05:27.208530", "type": "PROCESS", "pid": 4124, "ppid": 820, "name": "remoting_host.exe", "path": "C:\\Program Files (x86)\\Google\\Chrome Remote Desktop\\145.0.7632.25\\remoting_host.exe", "parent": "services.exe", "process_chain": "remoting_host.exe -> services.exe -> wininit.exe", "sha256": "02834df5a5327ce1603081a887552ab9f067a1c6893cad7298d76c556951b555", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:27.439402 - {"timestamp": "2026-02-23 21:05:27.414029", "type": "PROCESS", "pid": 4164, "ppid": 820, "name": "GooglePlayGamesServices.exe", "path": "C:\\Program Files\\Google\\Play Games Services\\26.2.324.0\\Service\\GooglePlayGamesServices.exe", "parent": "services.exe", "process_chain": "GooglePlayGamesServices.exe -> services.exe -> wininit.exe", "sha256": "c439fc569d3992129b3ffa7941e9a667ed24c35992da0a33ccb8898f4e9f6c7d", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:27.519086 - {"timestamp": "2026-02-23 21:05:27.484908", "type": "PROCESS", "pid": 4184, "ppid": 952, "name": "UserOOBEBroker.exe", "path": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe", "parent": "svchost.exe", "process_chain": "UserOOBEBroker.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "bde96de9bd4719e6c030bd58939af5cdc4648549a923efc2bc41557fd313d0eb", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:27.593659 - {"timestamp": "2026-02-23 21:05:27.567436", "type": "PROCESS", "pid": 4208, "ppid": 820, "name": "OneApp.IGCC.WinService.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\igcc_dch.inf_amd64_c2ac023763d5d3ad\\OneApp.IGCC.WinService.exe", "parent": "services.exe", "process_chain": "OneApp.IGCC.WinService.exe -> services.exe -> wininit.exe", "sha256": "db3c275f7bbeb9141d1489a0e117645ecf5fc6d9dd298e6d9f29225215992163", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:27.730699 - {"timestamp": "2026-02-23 21:05:27.704761", "type": "PROCESS", "pid": 4272, "ppid": 820, "name": "TPMProvisioningService.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iclsclient.inf_amd64_75ffca5eec865b4b\\lib\\TPMProvisioningService.exe", "parent": "services.exe", "process_chain": "TPMProvisioningService.exe -> services.exe -> wininit.exe", "sha256": "03026e2dd25405009c95c33681bca7a3395b642ebb8d3afaeb284f2966dc9578", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:27.870911 - {"timestamp": "2026-02-23 21:05:27.845979", "type": "PROCESS", "pid": 4348, "ppid": 820, "name": "LMS.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\lms.inf_amd64_d4f47df9c2216d4d\\LMS.exe", "parent": "services.exe", "process_chain": "LMS.exe -> services.exe -> wininit.exe", "sha256": "8b8db928178a9a54f7d1479d7e75ca4381e3f4814d6b211ee767f790a1550718", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:27.959531 - {"timestamp": "2026-02-23 21:05:27.933172", "type": "PROCESS", "pid": 4356, "ppid": 820, "name": "EasyResume.exe", "path": "C:\\Windows\\SysWOW64\\EasyResume.exe", "parent": "services.exe", "process_chain": "EasyResume.exe -> services.exe -> wininit.exe", "sha256": "8a66ec90e106d598b5b4cac5ab03535915cec6c88a1dc4674a6b0d0f65ecf552", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:28.050577 - {"timestamp": "2026-02-23 21:05:28.024616", "type": "PROCESS", "pid": 4384, "ppid": 820, "name": "MpDefenderCoreService.exe", "path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26010.5-0\\MpDefenderCoreService.exe", "parent": "services.exe", "process_chain": "MpDefenderCoreService.exe -> services.exe -> wininit.exe", "sha256": "a73d3744d6638e5b969df9b0c3385675fb6b00709ea890a7130c83e987ac32d0", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:28.174626 - {"timestamp": "2026-02-23 21:05:28.148964", "type": "PROCESS", "pid": 4396, "ppid": 820, "name": "SchedulerService.exe", "path": "C:\\Program Files\\MiniTool ShadowMaker\\SchedulerService.exe", "parent": "services.exe", "process_chain": "SchedulerService.exe -> services.exe -> wininit.exe", "sha256": "73134a88a8532c50d5f90b2b06b6514b225033ff78cdd8bccfd556c7b7d62672", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:28.302916 - {"timestamp": "2026-02-23 21:05:28.277477", "type": "PROCESS", "pid": 4404, "ppid": 820, "name": "AgentService.exe", "path": "C:\\Program Files\\MiniTool ShadowMaker\\AgentService.exe", "parent": "services.exe", "process_chain": "AgentService.exe -> services.exe -> wininit.exe", "sha256": "655281c8077824cce547df93edcf61fc1873ce533cea706878b383f3a4aa91b9", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:28.576319 - {"timestamp": "2026-02-23 21:05:28.551388", "type": "PROCESS", "pid": 4620, "ppid": 820, "name": "SynTPEnhService.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPEnhService.exe", "parent": "services.exe", "process_chain": "SynTPEnhService.exe -> services.exe -> wininit.exe", "sha256": "bc0a59eeb5f63a1646234136a2ecf43c2bc6e9217045418aeacbbb9fbd7d1768", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:28.713548 - {"timestamp": "2026-02-23 21:05:28.687617", "type": "PROCESS", "pid": 4696, "ppid": 820, "name": "MsMpEng.exe", "path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26010.5-0\\MsMpEng.exe", "parent": "services.exe", "process_chain": "MsMpEng.exe -> services.exe -> wininit.exe", "sha256": "73ebeae74752610c5c2c3e715c19701374e4e6f84fbb1def0625f7d1e9419442", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:29.167668 - {"timestamp": "2026-02-23 21:05:29.141359", "type": "PROCESS", "pid": 5096, "ppid": 820, "name": "jhi_service.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\dal.inf_amd64_b5484efd38adbe8d\\jhi_service.exe", "parent": "services.exe", "process_chain": "jhi_service.exe -> services.exe -> wininit.exe", "sha256": "811a5d5f28bed664d744d7a289aaefd965f4b90bb6d46f61eee8d6cadfd6e180", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:29.258305 - {"timestamp": "2026-02-23 21:05:29.227387", "type": "PROCESS", "pid": 5140, "ppid": 4620, "name": "SynTPEnh.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPEnh.exe", "parent": "syntpenhservice.exe", "process_chain": "SynTPEnh.exe -> SynTPEnhService.exe -> services.exe -> wininit.exe", "sha256": "6d22cb27d17ed07a3b5059a6e30d64027e13152a3185461ae730325296b3e98b", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:29.383137 - {"timestamp": "2026-02-23 21:05:29.365717", "type": "PROCESS", "pid": 5280, "ppid": 7420, "name": "cmd.exe", "path": "C:\\Windows\\System32\\cmd.exe", "parent": "explorer.exe", "process_chain": "cmd.exe -> explorer.exe", "sha256": "badf4752413cb0cbdc03fb95820ca167f0cdc63b597ccdb5ef43111180e088b0", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:29.465014 - {"timestamp": "2026-02-23 21:05:29.437138", "type": "PROCESS", "pid": 5368, "ppid": 820, "name": "SearchIndexer.exe", "path": "C:\\Windows\\System32\\SearchIndexer.exe", "parent": "services.exe", "process_chain": "SearchIndexer.exe -> services.exe -> wininit.exe", "sha256": "cf1a98af352d2c0c7ffec22e79c34efdc4ea659071f6d68345e17343e3ff7f87", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:30.387488 - {"timestamp": "2026-02-23 21:05:30.362350", "type": "PROCESS", "pid": 5776, "ppid": 820, "name": "SecurityHealthService.exe", "path": "C:\\Windows\\System32\\SecurityHealthService.exe", "parent": "services.exe", "process_chain": "SecurityHealthService.exe -> services.exe -> wininit.exe", "sha256": "12102735650f172ce320d6a05cd2f78552e75b500463f5ab9a51f903a4e19532", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:30.478248 - {"timestamp": "2026-02-23 21:05:30.439352", "type": "PROCESS", "pid": 5952, "ppid": 952, "name": "dllhost.exe", "path": "C:\\Windows\\System32\\dllhost.exe", "parent": "svchost.exe", "process_chain": "dllhost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "0309834d40475ccd5a88c48f7ff5ec62e5c6798900357dd83665c3d0345124e0", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:30.684903 - {"timestamp": "2026-02-23 21:05:30.655473", "type": "PROCESS", "pid": 6328, "ppid": 2784, "name": "igfxEM.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\cui_dch.inf_amd64_38cfab2b652e4701\\igfxEM.exe", "parent": "igfxcuiservice.exe", "process_chain": "igfxEM.exe -> igfxCUIService.exe -> services.exe -> wininit.exe", "sha256": "5dedc181fb6315d428ec2d1b97506fe046ab50dd9a299660bfe6a1a83c5f153b", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:30.824963 - {"timestamp": "2026-02-23 21:05:30.794559", "type": "PROCESS", "pid": 6428, "ppid": 2284, "name": "sihost.exe", "path": "C:\\Windows\\System32\\sihost.exe", "parent": "svchost.exe", "process_chain": "sihost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "5f2b9a9b5cc6be90acdf7dc0debc6133ed68c5cc27d2bd31048d03c312d18f4b", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:31.153132 - {"timestamp": "2026-02-23 21:05:31.124191", "type": "PROCESS", "pid": 6888, "ppid": 820, "name": "PresentationFontCache.exe", "path": "C:\\Windows\\Microsoft.NET\\Framework64\\v3.0\\WPF\\PresentationFontCache.exe", "parent": "services.exe", "process_chain": "PresentationFontCache.exe -> services.exe -> wininit.exe", "sha256": "80982c4da12fdd501c234782a14243dffa8aa4d6eb94ba5e37e3575ade53000d", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:31.370534 - {"timestamp": "2026-02-23 21:05:31.337672", "type": "PROCESS", "pid": 6936, "ppid": 4164, "name": "crashpad_handler.exe", "path": "C:\\Program Files\\Google\\Play Games Services\\26.2.324.0\\Service\\data\\windows.assets\\crashpad_handler.exe", "parent": "googleplaygamesservices.exe", "process_chain": "crashpad_handler.exe -> GooglePlayGamesServices.exe -> services.exe -> wininit.exe", "sha256": "377403b3b732bd4b6430cf4546807527c374526b291e6b2624b6070c14a4dffc", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:31.453136 - {"timestamp": "2026-02-23 21:05:31.417139", "type": "PROCESS", "pid": 6944, "ppid": 2076, "name": "taskhostw.exe", "path": "C:\\Windows\\System32\\taskhostw.exe", "parent": "svchost.exe", "process_chain": "taskhostw.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "4d84d1db6c572da841307b814ccf26478429d3a29f304755ce1baf110e639f64", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:31.615139 - {"timestamp": "2026-02-23 21:05:31.584808", "type": "PROCESS", "pid": 6980, "ppid": 952, "name": "FileCoAuth.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Microsoft\\OneDrive\\26.017.0126.0002_1\\FileCoAuth.exe", "parent": "svchost.exe", "process_chain": "FileCoAuth.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "87d29582eaa65556fe2d37b40c50852780ec2129e965bb2475bc766bb10a392c", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:31.699339 - {"timestamp": "2026-02-23 21:05:31.666412", "type": "PROCESS", "pid": 7056, "ppid": 2076, "name": "PowerMgr.exe", "path": "C:\\Windows\\SysWOW64\\Lenovo\\PowerMgr\\PowerMgr.exe", "parent": "svchost.exe", "process_chain": "PowerMgr.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "1d1425ba508adb37cb4520775866aa63f35052a9b64ccd319ccb3890e3395a9e", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:31.810172 - {"timestamp": "2026-02-23 21:05:31.802762", "type": "PROCESS", "pid": 7120, "ppid": 7224, "name": "SynTPHelper.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPHelper.exe", "parent": "Unknown", "process_chain": "SynTPHelper.exe", "sha256": "8084c144719007af5a25a526dd9d4fa269e6b0481fbd70dc5c66c7d795d91dbd", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:31.890136 - {"timestamp": "2026-02-23 21:05:31.853734", "type": "PROCESS", "pid": 7212, "ppid": 5140, "name": "SynTPLpr.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPLpr.exe", "parent": "syntpenh.exe", "process_chain": "SynTPLpr.exe -> SynTPEnh.exe -> SynTPEnhService.exe -> services.exe -> wininit.exe", "sha256": "c6eea6f25f5cf74bc873b66a8143495a7a1a26c1a0c8633c55fbc75c4a476fee", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:31.974857 - {"timestamp": "2026-02-23 21:05:31.931973", "type": "PROCESS", "pid": 7236, "ppid": 5140, "name": "SynLenovoHelper.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynLenovoHelper.exe", "parent": "syntpenh.exe", "process_chain": "SynLenovoHelper.exe -> SynTPEnh.exe -> SynTPEnhService.exe -> services.exe -> wininit.exe", "sha256": "406ad4ab6436c5f7372d7d061b404bb1123f9e100f1ac2e96ebb1646a9a3e66c", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:32.044726 - {"timestamp": "2026-02-23 21:05:32.022622", "type": "PROCESS", "pid": 7284, "ppid": 5280, "name": "python3.11.exe", "path": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python3.11.exe", "parent": "cmd.exe", "process_chain": "python3.11.exe -> cmd.exe -> explorer.exe", "sha256": "ea21d2833698f5bf74e44b7125855336a7bc1291be6983532109b016f9859257", "digital_signature": "Unknown", "risk_score": 10, "reasons": ["Spawned by Script Engine", "Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:32.127309 - {"timestamp": "2026-02-23 21:05:32.117376", "type": "PROCESS", "pid": 7420, "ppid": 7364, "name": "explorer.exe", "path": "C:\\Windows\\explorer.exe", "parent": "Unknown", "process_chain": "explorer.exe", "sha256": "e141e418c510170963431a8cded3919d5e1b811f74f762a61867a258d25e46fa", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:32.218460 - {"timestamp": "2026-02-23 21:05:32.184606", "type": "PROCESS", "pid": 7448, "ppid": 4148, "name": "AggregatorHost.exe", "path": "C:\\Windows\\System32\\AggregatorHost.exe", "parent": "svchost.exe", "process_chain": "AggregatorHost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "60b048b1e7edbd61798f2518cf6207035a6ad3595ac214eb7bd0d1df1e9f4ba8", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:34.330479 - {"timestamp": "2026-02-23 21:05:34.323874", "type": "PROCESS", "pid": 8148, "ppid": 12588, "name": "Discord.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Discord\\app-1.0.9225\\Discord.exe", "parent": "Unknown", "process_chain": "Discord.exe", "sha256": "d4512a0c60ac5e29cd65f77e6f47bca44b16ea03b9f299e8ebbcab4bbb8dd252", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:34.486429 - {"timestamp": "2026-02-23 21:05:34.454956", "type": "PROCESS", "pid": 8516, "ppid": 952, "name": "SearchApp.exe", "path": "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe", "parent": "svchost.exe", "process_chain": "SearchApp.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "1a2b3851a6d5c8bcc626f7cda11d1ab91604ba1b92e998fff3c585457ee81672", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:34.565513 - {"timestamp": "2026-02-23 21:05:34.533800", "type": "PROCESS", "pid": 8624, "ppid": 952, "name": "RuntimeBroker.exe", "path": "C:\\Windows\\System32\\RuntimeBroker.exe", "parent": "svchost.exe", "process_chain": "RuntimeBroker.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "ea91cd0634c69789b68770311b4e892010fe9e37d16c15fd33c461a04cebe4e3", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:34.650243 - {"timestamp": "2026-02-23 21:05:34.617329", "type": "PROCESS", "pid": 8640, "ppid": 5368, "name": "SearchProtocolHost.exe", "path": "C:\\Windows\\System32\\SearchProtocolHost.exe", "parent": "searchindexer.exe", "process_chain": "SearchProtocolHost.exe -> SearchIndexer.exe -> services.exe -> wininit.exe", "sha256": "0140d842ecb3d868b124c7ef547a39e1efff7c5a5fad38265943d8eb27043991", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:34.815145 - {"timestamp": "2026-02-23 21:05:34.778144", "type": "PROCESS", "pid": 8700, "ppid": 8516, "name": "msedgewebview2.exe", "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe", "parent": "searchapp.exe", "process_chain": "msedgewebview2.exe -> SearchApp.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "7ba451571c764e009725550cb31ce227a0ebb5055847c180d631d726f73c619e", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:34.982463 - {"timestamp": "2026-02-23 21:05:34.952177", "type": "PROCESS", "pid": 8776, "ppid": 952, "name": "ShellExperienceHost.exe", "path": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe", "parent": "svchost.exe", "process_chain": "ShellExperienceHost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "28c930ca7d30cc5bdf9d9163e182d41898756a8188f35dc3a1324e49ac17ed5a", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:35.464869 - {"timestamp": "2026-02-23 21:05:35.434987", "type": "PROCESS", "pid": 9200, "ppid": 952, "name": "StartMenuExperienceHost.exe", "path": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe", "parent": "svchost.exe", "process_chain": "StartMenuExperienceHost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "5d3aeb04a133d6c3db2e171a855e3f1a7a49c5f0440dfab84d984c8084a48932", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:37.237732 - {"timestamp": "2026-02-23 21:05:37.229028", "type": "PROCESS", "pid": 9616, "ppid": 4028, "name": "DiscordSystemHelper.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Discord\\app-1.0.9225\\modules\\discord_utils-2\\discord_utils\\DiscordSystemHelper.exe", "parent": "Unknown", "process_chain": "DiscordSystemHelper.exe", "sha256": "e2dd67d2d7d738c7ad85a60efd81b88c0d989a17fc4af8ca7537ad9d7eee137f", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:37.473611 - {"timestamp": "2026-02-23 21:05:37.447902", "type": "PROCESS", "pid": 10100, "ppid": 820, "name": "NisSrv.exe", "path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26010.5-0\\NisSrv.exe", "parent": "services.exe", "process_chain": "NisSrv.exe -> services.exe -> wininit.exe", "sha256": "d08d33e3d5c0d01230ee892419727a9d4bd5928f66220cbca155a764c9bf2322", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:39.050730 - {"timestamp": "2026-02-23 21:05:39.035027", "type": "PROCESS", "pid": 10292, "ppid": 7420, "name": "notepad.exe", "path": "C:\\Windows\\System32\\notepad.exe", "parent": "explorer.exe", "process_chain": "notepad.exe -> explorer.exe", "sha256": "da5807bb0997cc6b5132950ec87eda2b33b1ac4533cf1f7a22a6f3b576ed7c5b", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:39.144205 - {"timestamp": "2026-02-23 21:05:39.113287", "type": "PROCESS", "pid": 10444, "ppid": 952, "name": "LockApp.exe", "path": "C:\\Windows\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy\\LockApp.exe", "parent": "svchost.exe", "process_chain": "LockApp.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "aada49cabadba89ff1f7976bdb4d9cca4a2e90e68e06ff4505d5a7e2541ca43e", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:39.332034 - {"timestamp": "2026-02-23 21:05:39.325053", "type": "PROCESS", "pid": 10748, "ppid": 15300, "name": "OneDrive.Sync.Service.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Microsoft\\OneDrive\\26.017.0126.0002_1\\OneDrive.Sync.Service.exe", "parent": "Unknown", "process_chain": "OneDrive.Sync.Service.exe", "sha256": "5e28d17c0121868c5972e5cab5278b42eb3a33b8bed1b409380b514ec723d747", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:39.535821 - {"timestamp": "2026-02-23 21:05:39.494162", "type": "PROCESS", "pid": 10900, "ppid": 952, "name": "TextInputHost.exe", "path": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe", "parent": "svchost.exe", "process_chain": "TextInputHost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "326574f6c6632fdb9b75ee201d385e5a5d0abdd519cbd84ab1de966128f6c4db", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:39.718333 - {"timestamp": "2026-02-23 21:05:39.703481", "type": "PROCESS", "pid": 11076, "ppid": 7420, "name": "SecurityHealthSystray.exe", "path": "C:\\Windows\\System32\\SecurityHealthSystray.exe", "parent": "explorer.exe", "process_chain": "SecurityHealthSystray.exe -> explorer.exe", "sha256": "ead5bbb7752377bb4d9bf8dcc38a34969e254e5da87889b8d4b4788e3be0b0ef", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:39.965492 - {"timestamp": "2026-02-23 21:05:39.956663", "type": "PROCESS", "pid": 11372, "ppid": 7028, "name": "BraveCrashHandler.exe", "path": "C:\\Program Files (x86)\\BraveSoftware\\Update\\1.3.361.151\\BraveCrashHandler.exe", "parent": "Unknown", "process_chain": "BraveCrashHandler.exe", "sha256": "c08986529a5cd535565be8344e1b45898ba311b1fa2e1f49301d2d8d7266fca4", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:40.026707 - {"timestamp": "2026-02-23 21:05:40.016691", "type": "PROCESS", "pid": 11408, "ppid": 7028, "name": "BraveCrashHandler64.exe", "path": "C:\\Program Files (x86)\\BraveSoftware\\Update\\1.3.361.151\\BraveCrashHandler64.exe", "parent": "Unknown", "process_chain": "BraveCrashHandler64.exe", "sha256": "175a34ceb8f0da3057ee7aa9b6b1f361c058fecbcaa947d90618f26043cff4ff", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:41.068079 - {"timestamp": "2026-02-23 21:05:41.053117", "type": "PROCESS", "pid": 11992, "ppid": 7420, "name": "OneDrive.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe", "parent": "explorer.exe", "process_chain": "OneDrive.exe -> explorer.exe", "sha256": "188058277eb8c7070f4091f5004df27ef610369de9a8ba73e2882190934a0c1e", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:41.647752 - {"timestamp": "2026-02-23 21:05:41.632007", "type": "PROCESS", "pid": 12400, "ppid": 7420, "name": "GoogleDriveFS.exe", "path": "C:\\Program Files\\Google\\Drive File Stream\\121.0.1.0\\GoogleDriveFS.exe", "parent": "explorer.exe", "process_chain": "GoogleDriveFS.exe -> explorer.exe", "sha256": "422c1b39302abeac9e9ee0e2e2d0348d364dd1fe402305289c6ea8ee5ee6542a", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:42.713671 - {"timestamp": "2026-02-23 21:05:42.687731", "type": "PROCESS", "pid": 12976, "ppid": 15056, "name": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp", "path": "C:\\Users\\USER\\AppData\\Local\\Temp\\is-28CB0.tmp\\CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp", "parent": "codesetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe", "process_chain": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe -> Code.exe -> explorer.exe", "sha256": "8c1b648f71670b71749d5bd0a24e1f6bbef518e5b308e254a213483b0c905f16", "digital_signature": "Unknown", "risk_score": 15, "reasons": ["Running from Temp Folder", "Temporary File Execution", "Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:43.067464 - {"timestamp": "2026-02-23 21:05:43.034641", "type": "PROCESS", "pid": 13408, "ppid": 5368, "name": "SearchFilterHost.exe", "path": "C:\\Windows\\System32\\SearchFilterHost.exe", "parent": "searchindexer.exe", "process_chain": "SearchFilterHost.exe -> SearchIndexer.exe -> services.exe -> wininit.exe", "sha256": "6a0fdbb3c1e265b6c987b937b0e45a1338dc465a7b18a4e6b7b074a9cc0d39ad", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:43.162881 - {"timestamp": "2026-02-23 21:05:43.131880", "type": "PROCESS", "pid": 13520, "ppid": 2076, "name": "RAVBg64.exe", "path": "C:\\Program Files\\Realtek\\Audio\\HDA\\RAVBg64.exe", "parent": "svchost.exe", "process_chain": "RAVBg64.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "e65794066632cd2e5b38fe8277741155ba97cad0a074be2ecf75f6dd9d51fedd", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:44.889738 - {"timestamp": "2026-02-23 21:05:44.874765", "type": "PROCESS", "pid": 13772, "ppid": 7420, "name": "WhatsApp.Root.exe", "path": "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2605.103.0_x64__cv1g1gvanyjgm\\WhatsApp.Root.exe", "parent": "explorer.exe", "process_chain": "WhatsApp.Root.exe -> explorer.exe", "sha256": "36ae9bb2ef78afafcdc463fabb0eecf8ed70615aab015be1bacac6a9df770310", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:45.072758 - {"timestamp": "2026-02-23 21:05:45.065729", "type": "PROCESS", "pid": 13908, "ppid": 13540, "name": "RAVCpl64.exe", "path": "C:\\Program Files\\Realtek\\Audio\\HDA\\RAVCpl64.exe", "parent": "Unknown", "process_chain": "RAVCpl64.exe", "sha256": "d71666de641bda5521e1a0b4e4624b4fb8cd668d791f7b886bbbe7a7318e31ee", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:46.680042 - {"timestamp": "2026-02-23 21:05:46.649513", "type": "PROCESS", "pid": 14280, "ppid": 952, "name": "CompPkgSrv.exe", "path": "C:\\Windows\\System32\\CompPkgSrv.exe", "parent": "svchost.exe", "process_chain": "CompPkgSrv.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "c988f9db72e0c1ebe227ee4786db7675c304f98c6c1da916a20f73122c095127", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:48.097611 - {"timestamp": "2026-02-23 21:05:48.077182", "type": "PROCESS", "pid": 15056, "ppid": 10268, "name": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe", "parent": "code.exe", "process_chain": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe -> Code.exe -> explorer.exe", "sha256": "fec669fd20fd33d5a8d5d46f5c4287059bdefaea9210595f0f97b6cc49b0e8c9", "digital_signature": "Unknown", "risk_score": 10, "reasons": ["Running from Temp Folder", "Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 21:05:48.179856 - {"timestamp": "2026-02-23 21:05:48.147194", "type": "PROCESS", "pid": 15200, "ppid": 2076, "name": "SMMonitor.exe", "path": "C:\\Program Files\\MiniTool ShadowMaker\\SMMonitor.exe", "parent": "svchost.exe", "process_chain": "SMMonitor.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "9876b181ea1b6edd4b44f258c1910f5d44976d8f82ec0be6032fd254f525723b", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:47.221058 - {"timestamp": "2026-02-23 23:25:47.195387", "type": "PROCESS", "pid": 72, "ppid": 820, "name": "WUDFHost.exe", "path": "C:\\Windows\\System32\\WUDFHost.exe", "parent": "services.exe", "process_chain": "WUDFHost.exe -> services.exe -> wininit.exe", "sha256": "3d5b7140db7b1463fdd2c2f2c58d5fa6582b91ed5591167985ae06b1905f5a79", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:47.321618 - {"timestamp": "2026-02-23 23:25:47.306240", "type": "PROCESS", "pid": 404, "ppid": 4, "name": "smss.exe", "path": "C:\\Windows\\System32\\smss.exe", "parent": "system", "process_chain": "smss.exe -> System", "sha256": "7fd480e87a53902476a8803a7932156601b349b7f9a5618e7739aeb340666a6d", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:47.410310 - {"timestamp": "2026-02-23 23:25:47.383386", "type": "PROCESS", "pid": 528, "ppid": 14624, "name": "msedgewebview2.exe", "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe", "parent": "msedgewebview2.exe", "process_chain": "msedgewebview2.exe -> msedgewebview2.exe -> WhatsApp.Root.exe -> explorer.exe", "sha256": "7ba451571c764e009725550cb31ce227a0ebb5055847c180d631d726f73c619e", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:47.468082 - {"timestamp": "2026-02-23 23:25:47.458172", "type": "PROCESS", "pid": 636, "ppid": 628, "name": "csrss.exe", "path": "C:\\Windows\\System32\\csrss.exe", "parent": "Unknown", "process_chain": "csrss.exe", "sha256": "9e63d657b41e13b75aebb261e7f93c0655d52ee82811b37e7470f4119e5b6054", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:47.541644 - {"timestamp": "2026-02-23 23:25:47.515197", "type": "PROCESS", "pid": 672, "ppid": 820, "name": "svchost.exe", "path": "C:\\Windows\\System32\\svchost.exe", "parent": "services.exe", "process_chain": "svchost.exe -> services.exe -> wininit.exe", "sha256": "b0b36bff7ae4057f687d839cd4b3d81159ab646f1ee1b22106a927e93decbb61", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:47.659300 - {"timestamp": "2026-02-23 23:25:47.650312", "type": "PROCESS", "pid": 744, "ppid": 628, "name": "wininit.exe", "path": "C:\\Windows\\System32\\wininit.exe", "parent": "Unknown", "process_chain": "wininit.exe", "sha256": "e617c0505526bcd94c76a5831dc4ada3786210d7fc4c1c148937aaf94b19621a", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:47.867751 - {"timestamp": "2026-02-23 23:25:47.843574", "type": "PROCESS", "pid": 820, "ppid": 744, "name": "services.exe", "path": "C:\\Windows\\System32\\services.exe", "parent": "wininit.exe", "process_chain": "services.exe -> wininit.exe", "sha256": "4a912dc98c977788131aad0ae468d86792211ed225f80b2c344a3690b4437428", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:47.940673 - {"timestamp": "2026-02-23 23:25:47.915221", "type": "PROCESS", "pid": 828, "ppid": 744, "name": "lsass.exe", "path": "C:\\Windows\\System32\\lsass.exe", "parent": "wininit.exe", "process_chain": "lsass.exe -> wininit.exe", "sha256": "9adbe3644f310659560b8f4e4510744c9253e6d0c0ea2d98689013bb57ebc3c4", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:48.040671 - {"timestamp": "2026-02-23 23:25:48.006738", "type": "PROCESS", "pid": 948, "ppid": 1588, "name": "pet.exe", "path": "C:\\Users\\USER\\.vscode\\extensions\\ms-python.vscode-python-envs-1.16.0-win32-x64\\python-env-tools\\bin\\pet.exe", "parent": "code.exe", "process_chain": "pet.exe -> Code.exe -> Code.exe -> explorer.exe", "sha256": "116438aec169c78918bbfd58a2bdf3892bce36063a7c868a6e39399608b8506f", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:48.199524 - {"timestamp": "2026-02-23 23:25:48.176577", "type": "PROCESS", "pid": 976, "ppid": 744, "name": "fontdrvhost.exe", "path": "C:\\Windows\\System32\\fontdrvhost.exe", "parent": "wininit.exe", "process_chain": "fontdrvhost.exe -> wininit.exe", "sha256": "3c5d14682b5787ca00c5aa6ff5df5ee8b28d55af2f965ae6744337889a7c5be6", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:48.376920 - {"timestamp": "2026-02-23 23:25:48.335341", "type": "PROCESS", "pid": 1120, "ppid": 740, "name": "winlogon.exe", "path": "C:\\Windows\\System32\\winlogon.exe", "parent": "svchost.exe", "process_chain": "winlogon.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "ba66849fcd4cd676dce2e747df9fc6bca27293ec6e0f8ed6f87340b9c35cb0f8", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:48.457248 - {"timestamp": "2026-02-23 23:25:48.430049", "type": "PROCESS", "pid": 1148, "ppid": 5004, "name": "brave.exe", "path": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe", "parent": "brave.exe", "process_chain": "brave.exe -> brave.exe -> explorer.exe", "sha256": "52a784be19e3f6418e8906b11e9b6e6c384fde210a5f27e4790a6b1558ef7188", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:48.942071 - {"timestamp": "2026-02-23 23:25:48.904895", "type": "PROCESS", "pid": 1392, "ppid": 820, "name": "DolbyDAX2API.exe", "path": "C:\\Program Files\\Dolby\\Dolby DAX2\\DAX2_API\\DolbyDAX2API.exe", "parent": "services.exe", "process_chain": "DolbyDAX2API.exe -> services.exe -> wininit.exe", "sha256": "8b3656c1e309560a272ad75ceef46d91f59bd025672bfb61563f3fe4ba0a9df2", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:49.039329 - {"timestamp": "2026-02-23 23:25:48.995446", "type": "PROCESS", "pid": 1400, "ppid": 6856, "name": "ctfmon.exe", "path": "C:\\Windows\\System32\\ctfmon.exe", "parent": "svchost.exe", "process_chain": "ctfmon.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "484fed5f039f429ed933931ba607b7efda7d1a343d79cfab60910e1843147012", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:49.389737 - {"timestamp": "2026-02-23 23:25:49.356993", "type": "PROCESS", "pid": 1580, "ppid": 820, "name": "IntelCpHDCPSvc.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_51f685305808e3a5\\IntelCpHDCPSvc.exe", "parent": "services.exe", "process_chain": "IntelCpHDCPSvc.exe -> services.exe -> wininit.exe", "sha256": "fe3b9de5cc1dee09d88946b7235c513561db0bb7e37f3ea531bd5e077b36f9f1", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:50.235869 - {"timestamp": "2026-02-23 23:25:50.206999", "type": "PROCESS", "pid": 1588, "ppid": 10268, "name": "Code.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe", "parent": "code.exe", "process_chain": "Code.exe -> Code.exe -> explorer.exe", "sha256": "c4cd7b3eee10cd2a809488e907e70aab9c7a2f9210209752e4ec7fae5fb394a7", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:50.405714 - {"timestamp": "2026-02-23 23:25:50.357826", "type": "PROCESS", "pid": 1656, "ppid": 1120, "name": "dwm.exe", "path": "C:\\Windows\\System32\\dwm.exe", "parent": "winlogon.exe", "process_chain": "dwm.exe -> winlogon.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "5974637971f604bdec89eeadf5bc3f8621c2845e6cc071b25ef42f22e12ee75c", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:50.553927 - {"timestamp": "2026-02-23 23:25:50.519945", "type": "PROCESS", "pid": 1884, "ppid": 820, "name": "IntelCpHeciSvc.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_51f685305808e3a5\\IntelCpHeciSvc.exe", "parent": "services.exe", "process_chain": "IntelCpHeciSvc.exe -> services.exe -> wininit.exe", "sha256": "5dff50dc5d2770a0ab4c7485e655835ef8e263f605ae7b134e743e7e0f5b42c6", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:50.840055 - {"timestamp": "2026-02-23 23:25:50.806803", "type": "PROCESS", "pid": 2148, "ppid": 820, "name": "ibmpmsvc.exe", "path": "C:\\Windows\\System32\\ibmpmsvc.exe", "parent": "services.exe", "process_chain": "ibmpmsvc.exe -> services.exe -> wininit.exe", "sha256": "9ed67b9cfca4d67a2dfab9890a784c8f3f51eec32f02fb7327da77fb64a2dd27", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:53.398650 - {"timestamp": "2026-02-23 23:25:53.369992", "type": "PROCESS", "pid": 2784, "ppid": 820, "name": "igfxCUIService.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\cui_dch.inf_amd64_38cfab2b652e4701\\igfxCUIService.exe", "parent": "services.exe", "process_chain": "igfxCUIService.exe -> services.exe -> wininit.exe", "sha256": "5d0b51ad859e13c8ad0550d5c3b4932030242958f356fae40ce8f8ac141b3c82", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:54.708106 - {"timestamp": "2026-02-23 23:25:54.678014", "type": "PROCESS", "pid": 3240, "ppid": 820, "name": "RtkAudioService64.exe", "path": "C:\\Program Files\\Realtek\\Audio\\HDA\\RtkAudioService64.exe", "parent": "services.exe", "process_chain": "RtkAudioService64.exe -> services.exe -> wininit.exe", "sha256": "7b672889a8166400229adca82f2249e354397733dce9ae8256478ac2193c6f98", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:54.793127 - {"timestamp": "2026-02-23 23:25:54.756792", "type": "PROCESS", "pid": 3284, "ppid": 2868, "name": "dasHost.exe", "path": "C:\\Windows\\System32\\dasHost.exe", "parent": "svchost.exe", "process_chain": "dasHost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "62070aebd1589521667d1db4a81ddebadfc0b4e7add091536abd08a7968ba605", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:55.171172 - {"timestamp": "2026-02-23 23:25:55.133279", "type": "PROCESS", "pid": 3564, "ppid": 9480, "name": "powershell.exe", "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "parent": "code.exe", "process_chain": "powershell.exe -> Code.exe -> Code.exe -> explorer.exe", "sha256": "9785001b0dcf755eddb8af294a373c0b87b2498660f724e76c4d53f9c217c7a3", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:55.274049 - {"timestamp": "2026-02-23 23:25:55.228311", "type": "PROCESS", "pid": 3612, "ppid": 3428, "name": "wlanext.exe", "path": "C:\\Windows\\System32\\wlanext.exe", "parent": "svchost.exe", "process_chain": "wlanext.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "8456099deb994f309fde890e4f0e571a0a67f9b7dd079516905175cd1500fa52", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:55.369275 - {"timestamp": "2026-02-23 23:25:55.332491", "type": "PROCESS", "pid": 3652, "ppid": 820, "name": "spoolsv.exe", "path": "C:\\Windows\\System32\\spoolsv.exe", "parent": "services.exe", "process_chain": "spoolsv.exe -> services.exe -> wininit.exe", "sha256": "6574a65649a3f1776702cdc32bdeedf27fd6cbacf4dfd3fab457fc9657d342b4", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:55.490123 - {"timestamp": "2026-02-23 23:25:55.426054", "type": "PROCESS", "pid": 3664, "ppid": 3612, "name": "conhost.exe", "path": "C:\\Windows\\System32\\conhost.exe", "parent": "wlanext.exe", "process_chain": "conhost.exe -> wlanext.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "b02ee54fb2ec69673386d41119ee8ed083a6eab3bfca6aa2155d20ce68ef8963", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:56.059860 - {"timestamp": "2026-02-23 23:25:56.024941", "type": "PROCESS", "pid": 4124, "ppid": 820, "name": "remoting_host.exe", "path": "C:\\Program Files (x86)\\Google\\Chrome Remote Desktop\\145.0.7632.25\\remoting_host.exe", "parent": "services.exe", "process_chain": "remoting_host.exe -> services.exe -> wininit.exe", "sha256": "02834df5a5327ce1603081a887552ab9f067a1c6893cad7298d76c556951b555", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:56.299418 - {"timestamp": "2026-02-23 23:25:56.258138", "type": "PROCESS", "pid": 4164, "ppid": 820, "name": "GooglePlayGamesServices.exe", "path": "C:\\Program Files\\Google\\Play Games Services\\26.2.324.0\\Service\\GooglePlayGamesServices.exe", "parent": "services.exe", "process_chain": "GooglePlayGamesServices.exe -> services.exe -> wininit.exe", "sha256": "c439fc569d3992129b3ffa7941e9a667ed24c35992da0a33ccb8898f4e9f6c7d", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:56.396537 - {"timestamp": "2026-02-23 23:25:56.352345", "type": "PROCESS", "pid": 4184, "ppid": 952, "name": "UserOOBEBroker.exe", "path": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe", "parent": "svchost.exe", "process_chain": "UserOOBEBroker.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "bde96de9bd4719e6c030bd58939af5cdc4648549a923efc2bc41557fd313d0eb", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:56.498118 - {"timestamp": "2026-02-23 23:25:56.459884", "type": "PROCESS", "pid": 4208, "ppid": 820, "name": "OneApp.IGCC.WinService.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\igcc_dch.inf_amd64_c2ac023763d5d3ad\\OneApp.IGCC.WinService.exe", "parent": "services.exe", "process_chain": "OneApp.IGCC.WinService.exe -> services.exe -> wininit.exe", "sha256": "db3c275f7bbeb9141d1489a0e117645ecf5fc6d9dd298e6d9f29225215992163", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:56.663885 - {"timestamp": "2026-02-23 23:25:56.625728", "type": "PROCESS", "pid": 4272, "ppid": 820, "name": "TPMProvisioningService.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iclsclient.inf_amd64_75ffca5eec865b4b\\lib\\TPMProvisioningService.exe", "parent": "services.exe", "process_chain": "TPMProvisioningService.exe -> services.exe -> wininit.exe", "sha256": "03026e2dd25405009c95c33681bca7a3395b642ebb8d3afaeb284f2966dc9578", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:56.837510 - {"timestamp": "2026-02-23 23:25:56.802834", "type": "PROCESS", "pid": 4348, "ppid": 820, "name": "LMS.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\lms.inf_amd64_d4f47df9c2216d4d\\LMS.exe", "parent": "services.exe", "process_chain": "LMS.exe -> services.exe -> wininit.exe", "sha256": "8b8db928178a9a54f7d1479d7e75ca4381e3f4814d6b211ee767f790a1550718", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:56.936086 - {"timestamp": "2026-02-23 23:25:56.899301", "type": "PROCESS", "pid": 4356, "ppid": 820, "name": "EasyResume.exe", "path": "C:\\Windows\\SysWOW64\\EasyResume.exe", "parent": "services.exe", "process_chain": "EasyResume.exe -> services.exe -> wininit.exe", "sha256": "8a66ec90e106d598b5b4cac5ab03535915cec6c88a1dc4674a6b0d0f65ecf552", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:57.048078 - {"timestamp": "2026-02-23 23:25:57.009286", "type": "PROCESS", "pid": 4384, "ppid": 820, "name": "MpDefenderCoreService.exe", "path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26010.5-0\\MpDefenderCoreService.exe", "parent": "services.exe", "process_chain": "MpDefenderCoreService.exe -> services.exe -> wininit.exe", "sha256": "a73d3744d6638e5b969df9b0c3385675fb6b00709ea890a7130c83e987ac32d0", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:57.160424 - {"timestamp": "2026-02-23 23:25:57.122335", "type": "PROCESS", "pid": 4396, "ppid": 820, "name": "SchedulerService.exe", "path": "C:\\Program Files\\MiniTool ShadowMaker\\SchedulerService.exe", "parent": "services.exe", "process_chain": "SchedulerService.exe -> services.exe -> wininit.exe", "sha256": "73134a88a8532c50d5f90b2b06b6514b225033ff78cdd8bccfd556c7b7d62672", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:57.249688 - {"timestamp": "2026-02-23 23:25:57.216416", "type": "PROCESS", "pid": 4404, "ppid": 820, "name": "AgentService.exe", "path": "C:\\Program Files\\MiniTool ShadowMaker\\AgentService.exe", "parent": "services.exe", "process_chain": "AgentService.exe -> services.exe -> wininit.exe", "sha256": "655281c8077824cce547df93edcf61fc1873ce533cea706878b383f3a4aa91b9", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:57.652154 - {"timestamp": "2026-02-23 23:25:57.607275", "type": "PROCESS", "pid": 4620, "ppid": 820, "name": "SynTPEnhService.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPEnhService.exe", "parent": "services.exe", "process_chain": "SynTPEnhService.exe -> services.exe -> wininit.exe", "sha256": "bc0a59eeb5f63a1646234136a2ecf43c2bc6e9217045418aeacbbb9fbd7d1768", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:57.830677 - {"timestamp": "2026-02-23 23:25:57.791787", "type": "PROCESS", "pid": 4696, "ppid": 820, "name": "MsMpEng.exe", "path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26010.5-0\\MsMpEng.exe", "parent": "services.exe", "process_chain": "MsMpEng.exe -> services.exe -> wininit.exe", "sha256": "73ebeae74752610c5c2c3e715c19701374e4e6f84fbb1def0625f7d1e9419442", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:58.392227 - {"timestamp": "2026-02-23 23:25:58.355091", "type": "PROCESS", "pid": 5096, "ppid": 820, "name": "jhi_service.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\dal.inf_amd64_b5484efd38adbe8d\\jhi_service.exe", "parent": "services.exe", "process_chain": "jhi_service.exe -> services.exe -> wininit.exe", "sha256": "811a5d5f28bed664d744d7a289aaefd965f4b90bb6d46f61eee8d6cadfd6e180", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:58.502950 - {"timestamp": "2026-02-23 23:25:58.454955", "type": "PROCESS", "pid": 5140, "ppid": 4620, "name": "SynTPEnh.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPEnh.exe", "parent": "syntpenhservice.exe", "process_chain": "SynTPEnh.exe -> SynTPEnhService.exe -> services.exe -> wininit.exe", "sha256": "6d22cb27d17ed07a3b5059a6e30d64027e13152a3185461ae730325296b3e98b", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:58.668943 - {"timestamp": "2026-02-23 23:25:58.631601", "type": "PROCESS", "pid": 5368, "ppid": 820, "name": "SearchIndexer.exe", "path": "C:\\Windows\\System32\\SearchIndexer.exe", "parent": "services.exe", "process_chain": "SearchIndexer.exe -> services.exe -> wininit.exe", "sha256": "cf1a98af352d2c0c7ffec22e79c34efdc4ea659071f6d68345e17343e3ff7f87", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:59.640054 - {"timestamp": "2026-02-23 23:25:59.605235", "type": "PROCESS", "pid": 5776, "ppid": 820, "name": "SecurityHealthService.exe", "path": "C:\\Windows\\System32\\SecurityHealthService.exe", "parent": "services.exe", "process_chain": "SecurityHealthService.exe -> services.exe -> wininit.exe", "sha256": "12102735650f172ce320d6a05cd2f78552e75b500463f5ab9a51f903a4e19532", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:59.735759 - {"timestamp": "2026-02-23 23:25:59.692586", "type": "PROCESS", "pid": 5952, "ppid": 952, "name": "dllhost.exe", "path": "C:\\Windows\\System32\\dllhost.exe", "parent": "svchost.exe", "process_chain": "dllhost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "0309834d40475ccd5a88c48f7ff5ec62e5c6798900357dd83665c3d0345124e0", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:25:59.950688 - {"timestamp": "2026-02-23 23:25:59.909647", "type": "PROCESS", "pid": 6328, "ppid": 2784, "name": "igfxEM.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\cui_dch.inf_amd64_38cfab2b652e4701\\igfxEM.exe", "parent": "igfxcuiservice.exe", "process_chain": "igfxEM.exe -> igfxCUIService.exe -> services.exe -> wininit.exe", "sha256": "5dedc181fb6315d428ec2d1b97506fe046ab50dd9a299660bfe6a1a83c5f153b", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:26:00.106263 - {"timestamp": "2026-02-23 23:26:00.065331", "type": "PROCESS", "pid": 6428, "ppid": 2284, "name": "sihost.exe", "path": "C:\\Windows\\System32\\sihost.exe", "parent": "svchost.exe", "process_chain": "sihost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "5f2b9a9b5cc6be90acdf7dc0debc6133ed68c5cc27d2bd31048d03c312d18f4b", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:26:00.424426 - {"timestamp": "2026-02-23 23:26:00.389517", "type": "PROCESS", "pid": 6888, "ppid": 820, "name": "PresentationFontCache.exe", "path": "C:\\Windows\\Microsoft.NET\\Framework64\\v3.0\\WPF\\PresentationFontCache.exe", "parent": "services.exe", "process_chain": "PresentationFontCache.exe -> services.exe -> wininit.exe", "sha256": "80982c4da12fdd501c234782a14243dffa8aa4d6eb94ba5e37e3575ade53000d", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:26:00.650753 - {"timestamp": "2026-02-23 23:26:00.605872", "type": "PROCESS", "pid": 6936, "ppid": 4164, "name": "crashpad_handler.exe", "path": "C:\\Program Files\\Google\\Play Games Services\\26.2.324.0\\Service\\data\\windows.assets\\crashpad_handler.exe", "parent": "googleplaygamesservices.exe", "process_chain": "crashpad_handler.exe -> GooglePlayGamesServices.exe -> services.exe -> wininit.exe", "sha256": "377403b3b732bd4b6430cf4546807527c374526b291e6b2624b6070c14a4dffc", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:26:00.743772 - {"timestamp": "2026-02-23 23:26:00.703918", "type": "PROCESS", "pid": 6968, "ppid": 2076, "name": "taskhostw.exe", "path": "C:\\Windows\\System32\\taskhostw.exe", "parent": "svchost.exe", "process_chain": "taskhostw.exe -> svchost.exe -> services.exe", "sha256": "4d84d1db6c572da841307b814ccf26478429d3a29f304755ce1baf110e639f64", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:26:00.848398 - {"timestamp": "2026-02-23 23:26:00.806659", "type": "PROCESS", "pid": 6980, "ppid": 952, "name": "FileCoAuth.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Microsoft\\OneDrive\\26.017.0126.0002_1\\FileCoAuth.exe", "parent": "svchost.exe", "process_chain": "FileCoAuth.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "87d29582eaa65556fe2d37b40c50852780ec2129e965bb2475bc766bb10a392c", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:26:00.941896 - {"timestamp": "2026-02-23 23:26:00.900413", "type": "PROCESS", "pid": 7056, "ppid": 2076, "name": "PowerMgr.exe", "path": "C:\\Windows\\SysWOW64\\Lenovo\\PowerMgr\\PowerMgr.exe", "parent": "svchost.exe", "process_chain": "PowerMgr.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "1d1425ba508adb37cb4520775866aa63f35052a9b64ccd319ccb3890e3395a9e", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:26:01.066149 - {"timestamp": "2026-02-23 23:26:01.049830", "type": "PROCESS", "pid": 7120, "ppid": 7224, "name": "SynTPHelper.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPHelper.exe", "parent": "Unknown", "process_chain": "SynTPHelper.exe", "sha256": "8084c144719007af5a25a526dd9d4fa269e6b0481fbd70dc5c66c7d795d91dbd", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:26:01.159240 - {"timestamp": "2026-02-23 23:26:01.112215", "type": "PROCESS", "pid": 7212, "ppid": 5140, "name": "SynTPLpr.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPLpr.exe", "parent": "syntpenh.exe", "process_chain": "SynTPLpr.exe -> SynTPEnh.exe -> SynTPEnhService.exe -> services.exe -> wininit.exe", "sha256": "c6eea6f25f5cf74bc873b66a8143495a7a1a26c1a0c8633c55fbc75c4a476fee", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:26:01.259134 - {"timestamp": "2026-02-23 23:26:01.208056", "type": "PROCESS", "pid": 7236, "ppid": 5140, "name": "SynLenovoHelper.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynLenovoHelper.exe", "parent": "syntpenh.exe", "process_chain": "SynLenovoHelper.exe -> SynTPEnh.exe -> SynTPEnhService.exe -> services.exe -> wininit.exe", "sha256": "406ad4ab6436c5f7372d7d061b404bb1123f9e100f1ac2e96ebb1646a9a3e66c", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:26:01.351760 - {"timestamp": "2026-02-23 23:26:01.332853", "type": "PROCESS", "pid": 7420, "ppid": 7364, "name": "explorer.exe", "path": "C:\\Windows\\explorer.exe", "parent": "Unknown", "process_chain": "explorer.exe", "sha256": "e141e418c510170963431a8cded3919d5e1b811f74f762a61867a258d25e46fa", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:26:01.448990 - {"timestamp": "2026-02-23 23:26:01.405606", "type": "PROCESS", "pid": 7448, "ppid": 4148, "name": "AggregatorHost.exe", "path": "C:\\Windows\\System32\\AggregatorHost.exe", "parent": "svchost.exe", "process_chain": "AggregatorHost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "60b048b1e7edbd61798f2518cf6207035a6ad3595ac214eb7bd0d1df1e9f4ba8", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:26:03.538375 - {"timestamp": "2026-02-23 23:26:03.520554", "type": "PROCESS", "pid": 8148, "ppid": 12588, "name": "Discord.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Discord\\app-1.0.9225\\Discord.exe", "parent": "Unknown", "process_chain": "Discord.exe", "sha256": "d4512a0c60ac5e29cd65f77e6f47bca44b16ea03b9f299e8ebbcab4bbb8dd252", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-23 23:26:03.647931 - {"timestamp": "2026-02-23 23:26:03.605922", "type": "PROCESS", "pid": 8516, "ppid": 952, "name": "SearchApp.exe", "path": "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe", "parent": "svchost.exe", "process_chain": "SearchApp.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "1a2b3851a6d5c8bcc626f7cda11d1ab91604ba1b92e998fff3c585457ee81672", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:18.105172 - {"timestamp": "2026-02-24 00:54:18.068074", "type": "PROCESS", "pid": 72, "ppid": 820, "name": "WUDFHost.exe", "path": "C:\\Windows\\System32\\WUDFHost.exe", "parent": "services.exe", "process_chain": "WUDFHost.exe -> services.exe -> wininit.exe", "sha256": "3d5b7140db7b1463fdd2c2f2c58d5fa6582b91ed5591167985ae06b1905f5a79", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:18.223352 - {"timestamp": "2026-02-24 00:54:18.198274", "type": "PROCESS", "pid": 404, "ppid": 4, "name": "smss.exe", "path": "C:\\Windows\\System32\\smss.exe", "parent": "system", "process_chain": "smss.exe -> System", "sha256": "7fd480e87a53902476a8803a7932156601b349b7f9a5618e7739aeb340666a6d", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:18.288016 - {"timestamp": "2026-02-24 00:54:18.268965", "type": "PROCESS", "pid": 636, "ppid": 628, "name": "csrss.exe", "path": "C:\\Windows\\System32\\csrss.exe", "parent": "Unknown", "process_chain": "csrss.exe", "sha256": "9e63d657b41e13b75aebb261e7f93c0655d52ee82811b37e7470f4119e5b6054", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:18.371956 - {"timestamp": "2026-02-24 00:54:18.352037", "type": "PROCESS", "pid": 744, "ppid": 628, "name": "wininit.exe", "path": "C:\\Windows\\System32\\wininit.exe", "parent": "Unknown", "process_chain": "wininit.exe", "sha256": "e617c0505526bcd94c76a5831dc4ada3786210d7fc4c1c148937aaf94b19621a", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:18.532199 - {"timestamp": "2026-02-24 00:54:18.503026", "type": "PROCESS", "pid": 820, "ppid": 744, "name": "services.exe", "path": "C:\\Windows\\System32\\services.exe", "parent": "wininit.exe", "process_chain": "services.exe -> wininit.exe", "sha256": "4a912dc98c977788131aad0ae468d86792211ed225f80b2c344a3690b4437428", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:18.642007 - {"timestamp": "2026-02-24 00:54:18.605713", "type": "PROCESS", "pid": 948, "ppid": 1588, "name": "pet.exe", "path": "C:\\Users\\USER\\.vscode\\extensions\\ms-python.vscode-python-envs-1.16.0-win32-x64\\python-env-tools\\bin\\pet.exe", "parent": "code.exe", "process_chain": "pet.exe -> Code.exe -> Code.exe -> explorer.exe", "sha256": "116438aec169c78918bbfd58a2bdf3892bce36063a7c868a6e39399608b8506f", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:18.730800 - {"timestamp": "2026-02-24 00:54:18.703249", "type": "PROCESS", "pid": 976, "ppid": 744, "name": "fontdrvhost.exe", "path": "C:\\Windows\\System32\\fontdrvhost.exe", "parent": "wininit.exe", "process_chain": "fontdrvhost.exe -> wininit.exe", "sha256": "3c5d14682b5787ca00c5aa6ff5df5ee8b28d55af2f965ae6744337889a7c5be6", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:18.835423 - {"timestamp": "2026-02-24 00:54:18.792733", "type": "PROCESS", "pid": 1120, "ppid": 740, "name": "winlogon.exe", "path": "C:\\Windows\\System32\\winlogon.exe", "parent": "svchost.exe", "process_chain": "winlogon.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "ba66849fcd4cd676dce2e747df9fc6bca27293ec6e0f8ed6f87340b9c35cb0f8", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:18.922383 - {"timestamp": "2026-02-24 00:54:18.889430", "type": "PROCESS", "pid": 1148, "ppid": 5004, "name": "brave.exe", "path": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe", "parent": "brave.exe", "process_chain": "brave.exe -> brave.exe -> explorer.exe", "sha256": "52a784be19e3f6418e8906b11e9b6e6c384fde210a5f27e4790a6b1558ef7188", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:19.125768 - {"timestamp": "2026-02-24 00:54:19.088864", "type": "PROCESS", "pid": 1392, "ppid": 820, "name": "DolbyDAX2API.exe", "path": "C:\\Program Files\\Dolby\\Dolby DAX2\\DAX2_API\\DolbyDAX2API.exe", "parent": "services.exe", "process_chain": "DolbyDAX2API.exe -> services.exe -> wininit.exe", "sha256": "8b3656c1e309560a272ad75ceef46d91f59bd025672bfb61563f3fe4ba0a9df2", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:19.214621 - {"timestamp": "2026-02-24 00:54:19.172717", "type": "PROCESS", "pid": 1400, "ppid": 6856, "name": "ctfmon.exe", "path": "C:\\Windows\\System32\\ctfmon.exe", "parent": "svchost.exe", "process_chain": "ctfmon.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "484fed5f039f429ed933931ba607b7efda7d1a343d79cfab60910e1843147012", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:19.350641 - {"timestamp": "2026-02-24 00:54:19.314709", "type": "PROCESS", "pid": 1580, "ppid": 820, "name": "IntelCpHDCPSvc.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_51f685305808e3a5\\IntelCpHDCPSvc.exe", "parent": "services.exe", "process_chain": "IntelCpHDCPSvc.exe -> services.exe -> wininit.exe", "sha256": "fe3b9de5cc1dee09d88946b7235c513561db0bb7e37f3ea531bd5e077b36f9f1", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:20.159859 - {"timestamp": "2026-02-24 00:54:20.121109", "type": "PROCESS", "pid": 1588, "ppid": 10268, "name": "Code.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe", "parent": "code.exe", "process_chain": "Code.exe -> Code.exe -> explorer.exe", "sha256": "c4cd7b3eee10cd2a809488e907e70aab9c7a2f9210209752e4ec7fae5fb394a7", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:20.270087 - {"timestamp": "2026-02-24 00:54:20.218083", "type": "PROCESS", "pid": 1656, "ppid": 1120, "name": "dwm.exe", "path": "C:\\Windows\\System32\\dwm.exe", "parent": "winlogon.exe", "process_chain": "dwm.exe -> winlogon.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "5974637971f604bdec89eeadf5bc3f8621c2845e6cc071b25ef42f22e12ee75c", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:20.418916 - {"timestamp": "2026-02-24 00:54:20.381715", "type": "PROCESS", "pid": 1884, "ppid": 820, "name": "IntelCpHeciSvc.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_51f685305808e3a5\\IntelCpHeciSvc.exe", "parent": "services.exe", "process_chain": "IntelCpHeciSvc.exe -> services.exe -> wininit.exe", "sha256": "5dff50dc5d2770a0ab4c7485e655835ef8e263f605ae7b134e743e7e0f5b42c6", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:20.543998 - {"timestamp": "2026-02-24 00:54:20.507874", "type": "PROCESS", "pid": 2148, "ppid": 820, "name": "ibmpmsvc.exe", "path": "C:\\Windows\\System32\\ibmpmsvc.exe", "parent": "services.exe", "process_chain": "ibmpmsvc.exe -> services.exe -> wininit.exe", "sha256": "9ed67b9cfca4d67a2dfab9890a784c8f3f51eec32f02fb7327da77fb64a2dd27", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:22.366278 - {"timestamp": "2026-02-24 00:54:22.331011", "type": "PROCESS", "pid": 2784, "ppid": 820, "name": "igfxCUIService.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\cui_dch.inf_amd64_38cfab2b652e4701\\igfxCUIService.exe", "parent": "services.exe", "process_chain": "igfxCUIService.exe -> services.exe -> wininit.exe", "sha256": "5d0b51ad859e13c8ad0550d5c3b4932030242958f356fae40ce8f8ac141b3c82", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:23.284614 - {"timestamp": "2026-02-24 00:54:23.249084", "type": "PROCESS", "pid": 3240, "ppid": 820, "name": "RtkAudioService64.exe", "path": "C:\\Program Files\\Realtek\\Audio\\HDA\\RtkAudioService64.exe", "parent": "services.exe", "process_chain": "RtkAudioService64.exe -> services.exe -> wininit.exe", "sha256": "7b672889a8166400229adca82f2249e354397733dce9ae8256478ac2193c6f98", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:23.378797 - {"timestamp": "2026-02-24 00:54:23.334915", "type": "PROCESS", "pid": 3284, "ppid": 2868, "name": "dasHost.exe", "path": "C:\\Windows\\System32\\dasHost.exe", "parent": "svchost.exe", "process_chain": "dasHost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "62070aebd1589521667d1db4a81ddebadfc0b4e7add091536abd08a7968ba605", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:23.487008 - {"timestamp": "2026-02-24 00:54:23.446616", "type": "PROCESS", "pid": 3328, "ppid": 2076, "name": "taskhostw.exe", "path": "C:\\Windows\\System32\\taskhostw.exe", "parent": "svchost.exe", "process_chain": "taskhostw.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "4d84d1db6c572da841307b814ccf26478429d3a29f304755ce1baf110e639f64", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:23.588486 - {"timestamp": "2026-02-24 00:54:23.552811", "type": "PROCESS", "pid": 3564, "ppid": 9480, "name": "powershell.exe", "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "parent": "code.exe", "process_chain": "powershell.exe -> Code.exe -> Code.exe -> explorer.exe", "sha256": "9785001b0dcf755eddb8af294a373c0b87b2498660f724e76c4d53f9c217c7a3", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:23.686235 - {"timestamp": "2026-02-24 00:54:23.640952", "type": "PROCESS", "pid": 3612, "ppid": 3428, "name": "wlanext.exe", "path": "C:\\Windows\\System32\\wlanext.exe", "parent": "svchost.exe", "process_chain": "wlanext.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "8456099deb994f309fde890e4f0e571a0a67f9b7dd079516905175cd1500fa52", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:23.775688 - {"timestamp": "2026-02-24 00:54:23.740287", "type": "PROCESS", "pid": 3652, "ppid": 820, "name": "spoolsv.exe", "path": "C:\\Windows\\System32\\spoolsv.exe", "parent": "services.exe", "process_chain": "spoolsv.exe -> services.exe -> wininit.exe", "sha256": "6574a65649a3f1776702cdc32bdeedf27fd6cbacf4dfd3fab457fc9657d342b4", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:23.879667 - {"timestamp": "2026-02-24 00:54:23.828661", "type": "PROCESS", "pid": 3664, "ppid": 3612, "name": "conhost.exe", "path": "C:\\Windows\\System32\\conhost.exe", "parent": "wlanext.exe", "process_chain": "conhost.exe -> wlanext.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "b02ee54fb2ec69673386d41119ee8ed083a6eab3bfca6aa2155d20ce68ef8963", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:24.022431 - {"timestamp": "2026-02-24 00:54:23.986867", "type": "PROCESS", "pid": 4124, "ppid": 820, "name": "remoting_host.exe", "path": "C:\\Program Files (x86)\\Google\\Chrome Remote Desktop\\145.0.7632.25\\remoting_host.exe", "parent": "services.exe", "process_chain": "remoting_host.exe -> services.exe -> wininit.exe", "sha256": "02834df5a5327ce1603081a887552ab9f067a1c6893cad7298d76c556951b555", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:24.121826 - {"timestamp": "2026-02-24 00:54:24.085922", "type": "PROCESS", "pid": 4164, "ppid": 820, "name": "GooglePlayGamesServices.exe", "path": "C:\\Program Files\\Google\\Play Games Services\\26.2.324.0\\Service\\GooglePlayGamesServices.exe", "parent": "services.exe", "process_chain": "GooglePlayGamesServices.exe -> services.exe -> wininit.exe", "sha256": "c439fc569d3992129b3ffa7941e9a667ed24c35992da0a33ccb8898f4e9f6c7d", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:24.211774 - {"timestamp": "2026-02-24 00:54:24.170673", "type": "PROCESS", "pid": 4184, "ppid": 952, "name": "UserOOBEBroker.exe", "path": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe", "parent": "svchost.exe", "process_chain": "UserOOBEBroker.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "bde96de9bd4719e6c030bd58939af5cdc4648549a923efc2bc41557fd313d0eb", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:24.295258 - {"timestamp": "2026-02-24 00:54:24.259751", "type": "PROCESS", "pid": 4208, "ppid": 820, "name": "OneApp.IGCC.WinService.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\igcc_dch.inf_amd64_c2ac023763d5d3ad\\OneApp.IGCC.WinService.exe", "parent": "services.exe", "process_chain": "OneApp.IGCC.WinService.exe -> services.exe -> wininit.exe", "sha256": "db3c275f7bbeb9141d1489a0e117645ecf5fc6d9dd298e6d9f29225215992163", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:24.404433 - {"timestamp": "2026-02-24 00:54:24.364923", "type": "PROCESS", "pid": 4272, "ppid": 820, "name": "TPMProvisioningService.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iclsclient.inf_amd64_75ffca5eec865b4b\\lib\\TPMProvisioningService.exe", "parent": "services.exe", "process_chain": "TPMProvisioningService.exe -> services.exe -> wininit.exe", "sha256": "03026e2dd25405009c95c33681bca7a3395b642ebb8d3afaeb284f2966dc9578", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:24.502153 - {"timestamp": "2026-02-24 00:54:24.467143", "type": "PROCESS", "pid": 4348, "ppid": 820, "name": "LMS.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\lms.inf_amd64_d4f47df9c2216d4d\\LMS.exe", "parent": "services.exe", "process_chain": "LMS.exe -> services.exe -> wininit.exe", "sha256": "8b8db928178a9a54f7d1479d7e75ca4381e3f4814d6b211ee767f790a1550718", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:24.596186 - {"timestamp": "2026-02-24 00:54:24.560658", "type": "PROCESS", "pid": 4356, "ppid": 820, "name": "EasyResume.exe", "path": "C:\\Windows\\SysWOW64\\EasyResume.exe", "parent": "services.exe", "process_chain": "EasyResume.exe -> services.exe -> wininit.exe", "sha256": "8a66ec90e106d598b5b4cac5ab03535915cec6c88a1dc4674a6b0d0f65ecf552", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:24.701796 - {"timestamp": "2026-02-24 00:54:24.665049", "type": "PROCESS", "pid": 4384, "ppid": 820, "name": "MpDefenderCoreService.exe", "path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26010.5-0\\MpDefenderCoreService.exe", "parent": "services.exe", "process_chain": "MpDefenderCoreService.exe -> services.exe -> wininit.exe", "sha256": "a73d3744d6638e5b969df9b0c3385675fb6b00709ea890a7130c83e987ac32d0", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:24.792739 - {"timestamp": "2026-02-24 00:54:24.756701", "type": "PROCESS", "pid": 4396, "ppid": 820, "name": "SchedulerService.exe", "path": "C:\\Program Files\\MiniTool ShadowMaker\\SchedulerService.exe", "parent": "services.exe", "process_chain": "SchedulerService.exe -> services.exe -> wininit.exe", "sha256": "73134a88a8532c50d5f90b2b06b6514b225033ff78cdd8bccfd556c7b7d62672", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:24.879879 - {"timestamp": "2026-02-24 00:54:24.843974", "type": "PROCESS", "pid": 4404, "ppid": 820, "name": "AgentService.exe", "path": "C:\\Program Files\\MiniTool ShadowMaker\\AgentService.exe", "parent": "services.exe", "process_chain": "AgentService.exe -> services.exe -> wininit.exe", "sha256": "655281c8077824cce547df93edcf61fc1873ce533cea706878b383f3a4aa91b9", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:25.049595 - {"timestamp": "2026-02-24 00:54:25.013957", "type": "PROCESS", "pid": 4620, "ppid": 820, "name": "SynTPEnhService.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPEnhService.exe", "parent": "services.exe", "process_chain": "SynTPEnhService.exe -> services.exe -> wininit.exe", "sha256": "bc0a59eeb5f63a1646234136a2ecf43c2bc6e9217045418aeacbbb9fbd7d1768", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:25.149010 - {"timestamp": "2026-02-24 00:54:25.112535", "type": "PROCESS", "pid": 4696, "ppid": 820, "name": "MsMpEng.exe", "path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26010.5-0\\MsMpEng.exe", "parent": "services.exe", "process_chain": "MsMpEng.exe -> services.exe -> wininit.exe", "sha256": "73ebeae74752610c5c2c3e715c19701374e4e6f84fbb1def0625f7d1e9419442", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:25.403326 - {"timestamp": "2026-02-24 00:54:25.365627", "type": "PROCESS", "pid": 5096, "ppid": 820, "name": "jhi_service.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\dal.inf_amd64_b5484efd38adbe8d\\jhi_service.exe", "parent": "services.exe", "process_chain": "jhi_service.exe -> services.exe -> wininit.exe", "sha256": "811a5d5f28bed664d744d7a289aaefd965f4b90bb6d46f61eee8d6cadfd6e180", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:25.505316 - {"timestamp": "2026-02-24 00:54:25.464589", "type": "PROCESS", "pid": 5140, "ppid": 4620, "name": "SynTPEnh.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPEnh.exe", "parent": "syntpenhservice.exe", "process_chain": "SynTPEnh.exe -> SynTPEnhService.exe -> services.exe -> wininit.exe", "sha256": "6d22cb27d17ed07a3b5059a6e30d64027e13152a3185461ae730325296b3e98b", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:25.607801 - {"timestamp": "2026-02-24 00:54:25.571072", "type": "PROCESS", "pid": 5368, "ppid": 820, "name": "SearchIndexer.exe", "path": "C:\\Windows\\System32\\SearchIndexer.exe", "parent": "services.exe", "process_chain": "SearchIndexer.exe -> services.exe -> wininit.exe", "sha256": "cf1a98af352d2c0c7ffec22e79c34efdc4ea659071f6d68345e17343e3ff7f87", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:26.487994 - {"timestamp": "2026-02-24 00:54:26.451557", "type": "PROCESS", "pid": 5776, "ppid": 820, "name": "SecurityHealthService.exe", "path": "C:\\Windows\\System32\\SecurityHealthService.exe", "parent": "services.exe", "process_chain": "SecurityHealthService.exe -> services.exe -> wininit.exe", "sha256": "12102735650f172ce320d6a05cd2f78552e75b500463f5ab9a51f903a4e19532", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:26.583527 - {"timestamp": "2026-02-24 00:54:26.540776", "type": "PROCESS", "pid": 5888, "ppid": 952, "name": "WmiPrvSE.exe", "path": "C:\\Windows\\System32\\wbem\\WmiPrvSE.exe", "parent": "svchost.exe", "process_chain": "WmiPrvSE.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "8bbdead7357af7bf0efe397f9fd7e0ec578755eb8bdbaa65ae4f28ef00087ad5", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:26.677432 - {"timestamp": "2026-02-24 00:54:26.635032", "type": "PROCESS", "pid": 5952, "ppid": 952, "name": "dllhost.exe", "path": "C:\\Windows\\System32\\dllhost.exe", "parent": "svchost.exe", "process_chain": "dllhost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "0309834d40475ccd5a88c48f7ff5ec62e5c6798900357dd83665c3d0345124e0", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:26.845441 - {"timestamp": "2026-02-24 00:54:26.803420", "type": "PROCESS", "pid": 6328, "ppid": 2784, "name": "igfxEM.exe", "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\cui_dch.inf_amd64_38cfab2b652e4701\\igfxEM.exe", "parent": "igfxcuiservice.exe", "process_chain": "igfxEM.exe -> igfxCUIService.exe -> services.exe -> wininit.exe", "sha256": "5dedc181fb6315d428ec2d1b97506fe046ab50dd9a299660bfe6a1a83c5f153b", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:26.951511 - {"timestamp": "2026-02-24 00:54:26.908705", "type": "PROCESS", "pid": 6428, "ppid": 2284, "name": "sihost.exe", "path": "C:\\Windows\\System32\\sihost.exe", "parent": "svchost.exe", "process_chain": "sihost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "5f2b9a9b5cc6be90acdf7dc0debc6133ed68c5cc27d2bd31048d03c312d18f4b", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:27.077873 - {"timestamp": "2026-02-24 00:54:27.042860", "type": "PROCESS", "pid": 6888, "ppid": 820, "name": "PresentationFontCache.exe", "path": "C:\\Windows\\Microsoft.NET\\Framework64\\v3.0\\WPF\\PresentationFontCache.exe", "parent": "services.exe", "process_chain": "PresentationFontCache.exe -> services.exe -> wininit.exe", "sha256": "80982c4da12fdd501c234782a14243dffa8aa4d6eb94ba5e37e3575ade53000d", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:27.194153 - {"timestamp": "2026-02-24 00:54:27.151674", "type": "PROCESS", "pid": 6936, "ppid": 4164, "name": "crashpad_handler.exe", "path": "C:\\Program Files\\Google\\Play Games Services\\26.2.324.0\\Service\\data\\windows.assets\\crashpad_handler.exe", "parent": "googleplaygamesservices.exe", "process_chain": "crashpad_handler.exe -> GooglePlayGamesServices.exe -> services.exe -> wininit.exe", "sha256": "377403b3b732bd4b6430cf4546807527c374526b291e6b2624b6070c14a4dffc", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:27.363657 - {"timestamp": "2026-02-24 00:54:27.322391", "type": "PROCESS", "pid": 6980, "ppid": 952, "name": "FileCoAuth.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Microsoft\\OneDrive\\26.017.0126.0002_1\\FileCoAuth.exe", "parent": "svchost.exe", "process_chain": "FileCoAuth.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "87d29582eaa65556fe2d37b40c50852780ec2129e965bb2475bc766bb10a392c", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:27.456418 - {"timestamp": "2026-02-24 00:54:27.414121", "type": "PROCESS", "pid": 7056, "ppid": 2076, "name": "PowerMgr.exe", "path": "C:\\Windows\\SysWOW64\\Lenovo\\PowerMgr\\PowerMgr.exe", "parent": "svchost.exe", "process_chain": "PowerMgr.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "1d1425ba508adb37cb4520775866aa63f35052a9b64ccd319ccb3890e3395a9e", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:27.581343 - {"timestamp": "2026-02-24 00:54:27.564042", "type": "PROCESS", "pid": 7120, "ppid": 7224, "name": "SynTPHelper.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPHelper.exe", "parent": "Unknown", "process_chain": "SynTPHelper.exe", "sha256": "8084c144719007af5a25a526dd9d4fa269e6b0481fbd70dc5c66c7d795d91dbd", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:27.680267 - {"timestamp": "2026-02-24 00:54:27.633979", "type": "PROCESS", "pid": 7212, "ppid": 5140, "name": "SynTPLpr.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPLpr.exe", "parent": "syntpenh.exe", "process_chain": "SynTPLpr.exe -> SynTPEnh.exe -> SynTPEnhService.exe -> services.exe -> wininit.exe", "sha256": "c6eea6f25f5cf74bc873b66a8143495a7a1a26c1a0c8633c55fbc75c4a476fee", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:27.774349 - {"timestamp": "2026-02-24 00:54:27.725321", "type": "PROCESS", "pid": 7236, "ppid": 5140, "name": "SynLenovoHelper.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynLenovoHelper.exe", "parent": "syntpenh.exe", "process_chain": "SynLenovoHelper.exe -> SynTPEnh.exe -> SynTPEnhService.exe -> services.exe -> wininit.exe", "sha256": "406ad4ab6436c5f7372d7d061b404bb1123f9e100f1ac2e96ebb1646a9a3e66c", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:27.877844 - {"timestamp": "2026-02-24 00:54:27.834843", "type": "PROCESS", "pid": 7448, "ppid": 4148, "name": "AggregatorHost.exe", "path": "C:\\Windows\\System32\\AggregatorHost.exe", "parent": "svchost.exe", "process_chain": "AggregatorHost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "60b048b1e7edbd61798f2518cf6207035a6ad3595ac214eb7bd0d1df1e9f4ba8", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:28.873383 - {"timestamp": "2026-02-24 00:54:28.842583", "type": "PROCESS", "pid": 8132, "ppid": 17792, "name": "python3.11.exe", "path": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python3.11.exe", "parent": "cmd.exe", "process_chain": "python3.11.exe -> cmd.exe -> explorer.exe", "sha256": "ea21d2833698f5bf74e44b7125855336a7bc1291be6983532109b016f9859257", "digital_signature": "Unknown", "risk_score": 10, "reasons": ["Spawned by Script Engine", "Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:29.644420 - {"timestamp": "2026-02-24 00:54:29.627032", "type": "PROCESS", "pid": 8148, "ppid": 12588, "name": "Discord.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Discord\\app-1.0.9225\\Discord.exe", "parent": "Unknown", "process_chain": "Discord.exe", "sha256": "d4512a0c60ac5e29cd65f77e6f47bca44b16ea03b9f299e8ebbcab4bbb8dd252", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:29.750458 - {"timestamp": "2026-02-24 00:54:29.708564", "type": "PROCESS", "pid": 8516, "ppid": 952, "name": "SearchApp.exe", "path": "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe", "parent": "svchost.exe", "process_chain": "SearchApp.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "1a2b3851a6d5c8bcc626f7cda11d1ab91604ba1b92e998fff3c585457ee81672", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:29.861157 - {"timestamp": "2026-02-24 00:54:29.815293", "type": "PROCESS", "pid": 8624, "ppid": 952, "name": "RuntimeBroker.exe", "path": "C:\\Windows\\System32\\RuntimeBroker.exe", "parent": "svchost.exe", "process_chain": "RuntimeBroker.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "ea91cd0634c69789b68770311b4e892010fe9e37d16c15fd33c461a04cebe4e3", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:29.990810 - {"timestamp": "2026-02-24 00:54:29.939946", "type": "PROCESS", "pid": 8700, "ppid": 8516, "name": "msedgewebview2.exe", "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe", "parent": "searchapp.exe", "process_chain": "msedgewebview2.exe -> SearchApp.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "7ba451571c764e009725550cb31ce227a0ebb5055847c180d631d726f73c619e", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:30.173491 - {"timestamp": "2026-02-24 00:54:30.129584", "type": "PROCESS", "pid": 8776, "ppid": 952, "name": "ShellExperienceHost.exe", "path": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe", "parent": "svchost.exe", "process_chain": "ShellExperienceHost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "28c930ca7d30cc5bdf9d9163e182d41898756a8188f35dc3a1324e49ac17ed5a", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:30.682037 - {"timestamp": "2026-02-24 00:54:30.640769", "type": "PROCESS", "pid": 9200, "ppid": 952, "name": "StartMenuExperienceHost.exe", "path": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe", "parent": "svchost.exe", "process_chain": "StartMenuExperienceHost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "5d3aeb04a133d6c3db2e171a855e3f1a7a49c5f0440dfab84d984c8084a48932", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:32.368517 - {"timestamp": "2026-02-24 00:54:32.351505", "type": "PROCESS", "pid": 9616, "ppid": 4028, "name": "DiscordSystemHelper.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Discord\\app-1.0.9225\\modules\\discord_utils-2\\discord_utils\\DiscordSystemHelper.exe", "parent": "Unknown", "process_chain": "DiscordSystemHelper.exe", "sha256": "e2dd67d2d7d738c7ad85a60efd81b88c0d989a17fc4af8ca7537ad9d7eee137f", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:32.622366 - {"timestamp": "2026-02-24 00:54:32.587423", "type": "PROCESS", "pid": 10100, "ppid": 820, "name": "NisSrv.exe", "path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26010.5-0\\NisSrv.exe", "parent": "services.exe", "process_chain": "NisSrv.exe -> services.exe -> wininit.exe", "sha256": "d08d33e3d5c0d01230ee892419727a9d4bd5928f66220cbca155a764c9bf2322", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:34.218387 - {"timestamp": "2026-02-24 00:54:34.192167", "type": "PROCESS", "pid": 10292, "ppid": 7420, "name": "notepad.exe", "path": "C:\\Windows\\System32\\notepad.exe", "parent": "explorer.exe", "process_chain": "notepad.exe -> explorer.exe", "sha256": "da5807bb0997cc6b5132950ec87eda2b33b1ac4533cf1f7a22a6f3b576ed7c5b", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:34.393486 - {"timestamp": "2026-02-24 00:54:34.353592", "type": "PROCESS", "pid": 10444, "ppid": 952, "name": "LockApp.exe", "path": "C:\\Windows\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy\\LockApp.exe", "parent": "svchost.exe", "process_chain": "LockApp.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "aada49cabadba89ff1f7976bdb4d9cca4a2e90e68e06ff4505d5a7e2541ca43e", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:34.596465 - {"timestamp": "2026-02-24 00:54:34.579736", "type": "PROCESS", "pid": 10748, "ppid": 15300, "name": "OneDrive.Sync.Service.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Microsoft\\OneDrive\\26.017.0126.0002_1\\OneDrive.Sync.Service.exe", "parent": "Unknown", "process_chain": "OneDrive.Sync.Service.exe", "sha256": "5e28d17c0121868c5972e5cab5278b42eb3a33b8bed1b409380b514ec723d747", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:34.792344 - {"timestamp": "2026-02-24 00:54:34.750992", "type": "PROCESS", "pid": 10900, "ppid": 952, "name": "TextInputHost.exe", "path": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe", "parent": "svchost.exe", "process_chain": "TextInputHost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "326574f6c6632fdb9b75ee201d385e5a5d0abdd519cbd84ab1de966128f6c4db", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:34.924046 - {"timestamp": "2026-02-24 00:54:34.894378", "type": "PROCESS", "pid": 11020, "ppid": 17792, "name": "conhost.exe", "path": "C:\\Windows\\System32\\conhost.exe", "parent": "cmd.exe", "process_chain": "conhost.exe -> cmd.exe -> explorer.exe", "sha256": "b02ee54fb2ec69673386d41119ee8ed083a6eab3bfca6aa2155d20ce68ef8963", "digital_signature": "Unknown", "risk_score": 10, "reasons": ["Spawned by Script Engine", "Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:35.120958 - {"timestamp": "2026-02-24 00:54:35.095519", "type": "PROCESS", "pid": 11076, "ppid": 7420, "name": "SecurityHealthSystray.exe", "path": "C:\\Windows\\System32\\SecurityHealthSystray.exe", "parent": "explorer.exe", "process_chain": "SecurityHealthSystray.exe -> explorer.exe", "sha256": "ead5bbb7752377bb4d9bf8dcc38a34969e254e5da87889b8d4b4788e3be0b0ef", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:35.237395 - {"timestamp": "2026-02-24 00:54:35.192756", "type": "PROCESS", "pid": 11092, "ppid": 952, "name": "MoUsoCoreWorker.exe", "path": "C:\\Windows\\System32\\MoUsoCoreWorker.exe", "parent": "svchost.exe", "process_chain": "MoUsoCoreWorker.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "6b676785219372f26a109e601bd04c7376a289021616b36ae4ccfaba43eaf4d6", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:35.513063 - {"timestamp": "2026-02-24 00:54:35.493559", "type": "PROCESS", "pid": 11372, "ppid": 7028, "name": "BraveCrashHandler.exe", "path": "C:\\Program Files (x86)\\BraveSoftware\\Update\\1.3.361.151\\BraveCrashHandler.exe", "parent": "Unknown", "process_chain": "BraveCrashHandler.exe", "sha256": "c08986529a5cd535565be8344e1b45898ba311b1fa2e1f49301d2d8d7266fca4", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:35.646687 - {"timestamp": "2026-02-24 00:54:35.625717", "type": "PROCESS", "pid": 11408, "ppid": 7028, "name": "BraveCrashHandler64.exe", "path": "C:\\Program Files (x86)\\BraveSoftware\\Update\\1.3.361.151\\BraveCrashHandler64.exe", "parent": "Unknown", "process_chain": "BraveCrashHandler64.exe", "sha256": "175a34ceb8f0da3057ee7aa9b6b1f361c058fecbcaa947d90618f26043cff4ff", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:36.532706 - {"timestamp": "2026-02-24 00:54:36.508493", "type": "PROCESS", "pid": 11992, "ppid": 7420, "name": "OneDrive.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe", "parent": "explorer.exe", "process_chain": "OneDrive.exe -> explorer.exe", "sha256": "188058277eb8c7070f4091f5004df27ef610369de9a8ba73e2882190934a0c1e", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:37.150274 - {"timestamp": "2026-02-24 00:54:37.123970", "type": "PROCESS", "pid": 12400, "ppid": 7420, "name": "GoogleDriveFS.exe", "path": "C:\\Program Files\\Google\\Drive File Stream\\121.0.1.0\\GoogleDriveFS.exe", "parent": "explorer.exe", "process_chain": "GoogleDriveFS.exe -> explorer.exe", "sha256": "422c1b39302abeac9e9ee0e2e2d0348d364dd1fe402305289c6ea8ee5ee6542a", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:38.229799 - {"timestamp": "2026-02-24 00:54:38.200874", "type": "PROCESS", "pid": 12976, "ppid": 15056, "name": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp", "path": "C:\\Users\\USER\\AppData\\Local\\Temp\\is-28CB0.tmp\\CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp", "parent": "codesetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe", "process_chain": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe -> Code.exe -> explorer.exe", "sha256": "8c1b648f71670b71749d5bd0a24e1f6bbef518e5b308e254a213483b0c905f16", "digital_signature": "Unknown", "risk_score": 15, "reasons": ["Running from Temp Folder", "Temporary File Execution", "Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:38.619618 - {"timestamp": "2026-02-24 00:54:38.576625", "type": "PROCESS", "pid": 13520, "ppid": 2076, "name": "RAVBg64.exe", "path": "C:\\Program Files\\Realtek\\Audio\\HDA\\RAVBg64.exe", "parent": "svchost.exe", "process_chain": "RAVBg64.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "e65794066632cd2e5b38fe8277741155ba97cad0a074be2ecf75f6dd9d51fedd", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:40.411084 - {"timestamp": "2026-02-24 00:54:40.382039", "type": "PROCESS", "pid": 13772, "ppid": 7420, "name": "WhatsApp.Root.exe", "path": "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2605.103.0_x64__cv1g1gvanyjgm\\WhatsApp.Root.exe", "parent": "explorer.exe", "process_chain": "WhatsApp.Root.exe -> explorer.exe", "sha256": "36ae9bb2ef78afafcdc463fabb0eecf8ed70615aab015be1bacac6a9df770310", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:40.609568 - {"timestamp": "2026-02-24 00:54:40.592484", "type": "PROCESS", "pid": 13908, "ppid": 13540, "name": "RAVCpl64.exe", "path": "C:\\Program Files\\Realtek\\Audio\\HDA\\RAVCpl64.exe", "parent": "Unknown", "process_chain": "RAVCpl64.exe", "sha256": "d71666de641bda5521e1a0b4e4624b4fb8cd668d791f7b886bbbe7a7318e31ee", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 00:54:42.183522 - {"timestamp": "2026-02-24 00:54:42.143333", "type": "PROCESS", "pid": 14280, "ppid": 952, "name": "CompPkgSrv.exe", "path": "C:\\Windows\\System32\\CompPkgSrv.exe", "parent": "svchost.exe", "process_chain": "CompPkgSrv.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "c988f9db72e0c1ebe227ee4786db7675c304f98c6c1da916a20f73122c095127", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 01:08:39.382910 - {"timestamp": "2026-02-24 01:08:39.324113", "type": "PROCESS", "pid": 12976, "ppid": 15056, "name": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp", "path": "C:\\Users\\USER\\AppData\\Local\\Temp\\is-28CB0.tmp\\CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp", "parent": "codesetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe", "process_chain": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe -> Code.exe -> explorer.exe", "sha256": "8c1b648f71670b71749d5bd0a24e1f6bbef518e5b308e254a213483b0c905f16", "digital_signature": "Valid", "risk_score": 12, "reasons": ["Running from Temp Folder", "Temporary File Execution", "Executable Writable"]}
+2026-02-24 01:09:00.241700 - {"timestamp": "2026-02-24 01:09:00.211846", "type": "PROCESS", "pid": 13772, "ppid": 7420, "name": "WhatsApp.Root.exe", "path": "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2605.103.0_x64__cv1g1gvanyjgm\\WhatsApp.Root.exe", "parent": "explorer.exe", "process_chain": "WhatsApp.Root.exe -> explorer.exe", "sha256": "36ae9bb2ef78afafcdc463fabb0eecf8ed70615aab015be1bacac6a9df770310", "digital_signature": "NotSigned", "risk_score": 5, "reasons": ["Invalid Signature (NotSigned)", "Executable Writable"]}
+2026-02-24 01:09:36.448249 - {"timestamp": "2026-02-24 01:09:36.408395", "type": "PROCESS", "pid": 15056, "ppid": 10268, "name": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe", "parent": "code.exe", "process_chain": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe -> Code.exe -> explorer.exe", "sha256": "fec669fd20fd33d5a8d5d46f5c4287059bdefaea9210595f0f97b6cc49b0e8c9", "digital_signature": "Valid", "risk_score": 7, "reasons": ["Running from Temp Folder", "Executable Writable"]}
+2026-02-24 01:09:40.502131 - {"timestamp": "2026-02-24 01:09:40.448242", "type": "PROCESS", "pid": 18804, "ppid": 17792, "name": "python3.11.exe", "path": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python3.11.exe", "parent": "cmd.exe", "process_chain": "python3.11.exe -> cmd.exe -> explorer.exe", "sha256": "ea21d2833698f5bf74e44b7125855336a7bc1291be6983532109b016f9859257", "digital_signature": "Valid", "risk_score": 7, "reasons": ["Spawned by Script Engine", "Executable Writable"]}
+2026-02-24 01:14:32.483818 - {"timestamp": "2026-02-24 01:14:32.443923", "type": "PROCESS", "pid": 2888, "ppid": 10268, "name": "Code.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe", "parent": "code.exe", "process_chain": "Code.exe -> Code.exe -> explorer.exe", "sha256": "c4cd7b3eee10cd2a809488e907e70aab9c7a2f9210209752e4ec7fae5fb394a7", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 01:14:36.311519 - {"timestamp": "2026-02-24 01:14:36.264096", "type": "PROCESS", "pid": 4124, "ppid": 820, "name": "remoting_host.exe", "path": "C:\\Program Files (x86)\\Google\\Chrome Remote Desktop\\145.0.7632.25\\remoting_host.exe", "parent": "services.exe", "process_chain": "remoting_host.exe -> services.exe -> wininit.exe", "sha256": "02834df5a5327ce1603081a887552ab9f067a1c6893cad7298d76c556951b555", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 01:14:40.573500 - {"timestamp": "2026-02-24 01:14:40.542624", "type": "PROCESS", "pid": 4404, "ppid": 820, "name": "AgentService.exe", "path": "C:\\Program Files\\MiniTool ShadowMaker\\AgentService.exe", "parent": "services.exe", "process_chain": "AgentService.exe -> services.exe -> wininit.exe", "sha256": "655281c8077824cce547df93edcf61fc1873ce533cea706878b383f3a4aa91b9", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 01:14:40.724925 - {"timestamp": "2026-02-24 01:14:40.700029", "type": "PROCESS", "pid": 4452, "ppid": 5004, "name": "brave.exe", "path": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe", "parent": "brave.exe", "process_chain": "brave.exe -> brave.exe -> explorer.exe", "sha256": "52a784be19e3f6418e8906b11e9b6e6c384fde210a5f27e4790a6b1558ef7188", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 01:14:41.146667 - {"timestamp": "2026-02-24 01:14:41.114718", "type": "PROCESS", "pid": 4696, "ppid": 820, "name": "MsMpEng.exe", "path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26010.5-0\\MsMpEng.exe", "parent": "services.exe", "process_chain": "MsMpEng.exe -> services.exe -> wininit.exe", "sha256": "73ebeae74752610c5c2c3e715c19701374e4e6f84fbb1def0625f7d1e9419442", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 01:14:42.743407 - {"timestamp": "2026-02-24 01:14:42.704549", "type": "PROCESS", "pid": 5140, "ppid": 4620, "name": "SynTPEnh.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPEnh.exe", "parent": "syntpenhservice.exe", "process_chain": "SynTPEnh.exe -> SynTPEnhService.exe -> services.exe -> wininit.exe", "sha256": "6d22cb27d17ed07a3b5059a6e30d64027e13152a3185461ae730325296b3e98b", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 01:14:48.969106 - {"timestamp": "2026-02-24 01:14:48.955966", "type": "PROCESS", "pid": 7120, "ppid": 7224, "name": "SynTPHelper.exe", "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPHelper.exe", "parent": "Unknown", "process_chain": "SynTPHelper.exe", "sha256": "8084c144719007af5a25a526dd9d4fa269e6b0481fbd70dc5c66c7d795d91dbd", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 01:15:05.275542 - {"timestamp": "2026-02-24 01:15:05.262674", "type": "PROCESS", "pid": 8148, "ppid": 12588, "name": "Discord.exe", "path": "C:\\Users\\USER\\AppData\\Local\\Discord\\app-1.0.9225\\Discord.exe", "parent": "Unknown", "process_chain": "Discord.exe", "sha256": "Unavailable", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 01:15:05.853572 - {"timestamp": "2026-02-24 01:15:05.794474", "type": "PROCESS", "pid": 8516, "ppid": 952, "name": "SearchApp.exe", "path": "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe", "parent": "svchost.exe", "process_chain": "SearchApp.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "1a2b3851a6d5c8bcc626f7cda11d1ab91604ba1b92e998fff3c585457ee81672", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 01:15:06.671790 - {"timestamp": "2026-02-24 01:15:06.619878", "type": "PROCESS", "pid": 8700, "ppid": 8516, "name": "msedgewebview2.exe", "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe", "parent": "searchapp.exe", "process_chain": "msedgewebview2.exe -> SearchApp.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "7ba451571c764e009725550cb31ce227a0ebb5055847c180d631d726f73c619e", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 01:15:07.672739 - {"timestamp": "2026-02-24 01:15:07.653602", "type": "PROCESS", "pid": 8776, "ppid": 952, "name": "ShellExperienceHost.exe", "path": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe", "parent": "svchost.exe", "process_chain": "ShellExperienceHost.exe", "sha256": "28c930ca7d30cc5bdf9d9163e182d41898756a8188f35dc3a1324e49ac17ed5a", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}
+2026-02-24 01:15:10.063039 - {"timestamp": "2026-02-24 01:15:10.006131", "type": "PROCESS", "pid": 9200, "ppid": 952, "name": "StartMenuExperienceHost.exe", "path": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe", "parent": "svchost.exe", "process_chain": "StartMenuExperienceHost.exe -> svchost.exe -> services.exe -> wininit.exe", "sha256": "5d3aeb04a133d6c3db2e171a855e3f1a7a49c5f0440dfab84d984c8084a48932", "digital_signature": "Unknown", "risk_score": 5, "reasons": ["Invalid Signature (Unknown)", "Executable Writable"]}

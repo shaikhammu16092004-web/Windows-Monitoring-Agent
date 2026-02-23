@@ -1,0 +1,284 @@
+{
+    "summary": {
+        "total_alerts": 16,
+        "process_alerts": 16,
+        "service_alerts": 0,
+        "high_risk": 1,
+        "medium_risk": 15
+    },
+    "detections": [
+        {
+            "timestamp": "2026-02-24 01:08:39.324113",
+            "type": "PROCESS",
+            "pid": 12976,
+            "ppid": 15056,
+            "name": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp",
+            "path": "C:\\Users\\USER\\AppData\\Local\\Temp\\is-28CB0.tmp\\CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp",
+            "parent": "codesetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe",
+            "process_chain": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.tmp -> CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe -> Code.exe -> explorer.exe",
+            "sha256": "8c1b648f71670b71749d5bd0a24e1f6bbef518e5b308e254a213483b0c905f16",
+            "digital_signature": "Valid",
+            "risk_score": 12,
+            "reasons": [
+                "Running from Temp Folder",
+                "Temporary File Execution",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:09:00.211846",
+            "type": "PROCESS",
+            "pid": 13772,
+            "ppid": 7420,
+            "name": "WhatsApp.Root.exe",
+            "path": "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2605.103.0_x64__cv1g1gvanyjgm\\WhatsApp.Root.exe",
+            "parent": "explorer.exe",
+            "process_chain": "WhatsApp.Root.exe -> explorer.exe",
+            "sha256": "36ae9bb2ef78afafcdc463fabb0eecf8ed70615aab015be1bacac6a9df770310",
+            "digital_signature": "NotSigned",
+            "risk_score": 5,
+            "reasons": [
+                "Invalid Signature (NotSigned)",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:09:36.408395",
+            "type": "PROCESS",
+            "pid": 15056,
+            "ppid": 10268,
+            "name": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe",
+            "path": "C:\\Users\\USER\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe",
+            "parent": "code.exe",
+            "process_chain": "CodeSetup-stable-072586267e68ece9a47aa43f8c108e0dcbf44622.exe -> Code.exe -> explorer.exe",
+            "sha256": "fec669fd20fd33d5a8d5d46f5c4287059bdefaea9210595f0f97b6cc49b0e8c9",
+            "digital_signature": "Valid",
+            "risk_score": 7,
+            "reasons": [
+                "Running from Temp Folder",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:09:40.448242",
+            "type": "PROCESS",
+            "pid": 18804,
+            "ppid": 17792,
+            "name": "python3.11.exe",
+            "path": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python3.11.exe",
+            "parent": "cmd.exe",
+            "process_chain": "python3.11.exe -> cmd.exe -> explorer.exe",
+            "sha256": "ea21d2833698f5bf74e44b7125855336a7bc1291be6983532109b016f9859257",
+            "digital_signature": "Valid",
+            "risk_score": 7,
+            "reasons": [
+                "Spawned by Script Engine",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:14:32.443923",
+            "type": "PROCESS",
+            "pid": 2888,
+            "ppid": 10268,
+            "name": "Code.exe",
+            "path": "C:\\Users\\USER\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+            "parent": "code.exe",
+            "process_chain": "Code.exe -> Code.exe -> explorer.exe",
+            "sha256": "c4cd7b3eee10cd2a809488e907e70aab9c7a2f9210209752e4ec7fae5fb394a7",
+            "digital_signature": "Unknown",
+            "risk_score": 5,
+            "reasons": [
+                "Invalid Signature (Unknown)",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:14:36.264096",
+            "type": "PROCESS",
+            "pid": 4124,
+            "ppid": 820,
+            "name": "remoting_host.exe",
+            "path": "C:\\Program Files (x86)\\Google\\Chrome Remote Desktop\\145.0.7632.25\\remoting_host.exe",
+            "parent": "services.exe",
+            "process_chain": "remoting_host.exe -> services.exe -> wininit.exe",
+            "sha256": "02834df5a5327ce1603081a887552ab9f067a1c6893cad7298d76c556951b555",
+            "digital_signature": "Unknown",
+            "risk_score": 5,
+            "reasons": [
+                "Invalid Signature (Unknown)",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:14:40.542624",
+            "type": "PROCESS",
+            "pid": 4404,
+            "ppid": 820,
+            "name": "AgentService.exe",
+            "path": "C:\\Program Files\\MiniTool ShadowMaker\\AgentService.exe",
+            "parent": "services.exe",
+            "process_chain": "AgentService.exe -> services.exe -> wininit.exe",
+            "sha256": "655281c8077824cce547df93edcf61fc1873ce533cea706878b383f3a4aa91b9",
+            "digital_signature": "Unknown",
+            "risk_score": 5,
+            "reasons": [
+                "Invalid Signature (Unknown)",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:14:40.700029",
+            "type": "PROCESS",
+            "pid": 4452,
+            "ppid": 5004,
+            "name": "brave.exe",
+            "path": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+            "parent": "brave.exe",
+            "process_chain": "brave.exe -> brave.exe -> explorer.exe",
+            "sha256": "52a784be19e3f6418e8906b11e9b6e6c384fde210a5f27e4790a6b1558ef7188",
+            "digital_signature": "Unknown",
+            "risk_score": 5,
+            "reasons": [
+                "Invalid Signature (Unknown)",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:14:41.114718",
+            "type": "PROCESS",
+            "pid": 4696,
+            "ppid": 820,
+            "name": "MsMpEng.exe",
+            "path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26010.5-0\\MsMpEng.exe",
+            "parent": "services.exe",
+            "process_chain": "MsMpEng.exe -> services.exe -> wininit.exe",
+            "sha256": "73ebeae74752610c5c2c3e715c19701374e4e6f84fbb1def0625f7d1e9419442",
+            "digital_signature": "Unknown",
+            "risk_score": 5,
+            "reasons": [
+                "Invalid Signature (Unknown)",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:14:42.704549",
+            "type": "PROCESS",
+            "pid": 5140,
+            "ppid": 4620,
+            "name": "SynTPEnh.exe",
+            "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPEnh.exe",
+            "parent": "syntpenhservice.exe",
+            "process_chain": "SynTPEnh.exe -> SynTPEnhService.exe -> services.exe -> wininit.exe",
+            "sha256": "6d22cb27d17ed07a3b5059a6e30d64027e13152a3185461ae730325296b3e98b",
+            "digital_signature": "Unknown",
+            "risk_score": 5,
+            "reasons": [
+                "Invalid Signature (Unknown)",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:14:48.955966",
+            "type": "PROCESS",
+            "pid": 7120,
+            "ppid": 7224,
+            "name": "SynTPHelper.exe",
+            "path": "C:\\Program Files\\Synaptics\\SynTP\\SynTPHelper.exe",
+            "parent": "Unknown",
+            "process_chain": "SynTPHelper.exe",
+            "sha256": "8084c144719007af5a25a526dd9d4fa269e6b0481fbd70dc5c66c7d795d91dbd",
+            "digital_signature": "Unknown",
+            "risk_score": 5,
+            "reasons": [
+                "Invalid Signature (Unknown)",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:15:05.262674",
+            "type": "PROCESS",
+            "pid": 8148,
+            "ppid": 12588,
+            "name": "Discord.exe",
+            "path": "C:\\Users\\USER\\AppData\\Local\\Discord\\app-1.0.9225\\Discord.exe",
+            "parent": "Unknown",
+            "process_chain": "Discord.exe",
+            "sha256": "Unavailable",
+            "digital_signature": "Unknown",
+            "risk_score": 5,
+            "reasons": [
+                "Invalid Signature (Unknown)",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:15:05.794474",
+            "type": "PROCESS",
+            "pid": 8516,
+            "ppid": 952,
+            "name": "SearchApp.exe",
+            "path": "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe",
+            "parent": "svchost.exe",
+            "process_chain": "SearchApp.exe -> svchost.exe -> services.exe -> wininit.exe",
+            "sha256": "1a2b3851a6d5c8bcc626f7cda11d1ab91604ba1b92e998fff3c585457ee81672",
+            "digital_signature": "Unknown",
+            "risk_score": 5,
+            "reasons": [
+                "Invalid Signature (Unknown)",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:15:06.619878",
+            "type": "PROCESS",
+            "pid": 8700,
+            "ppid": 8516,
+            "name": "msedgewebview2.exe",
+            "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe",
+            "parent": "searchapp.exe",
+            "process_chain": "msedgewebview2.exe -> SearchApp.exe -> svchost.exe -> services.exe -> wininit.exe",
+            "sha256": "7ba451571c764e009725550cb31ce227a0ebb5055847c180d631d726f73c619e",
+            "digital_signature": "Unknown",
+            "risk_score": 5,
+            "reasons": [
+                "Invalid Signature (Unknown)",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:15:07.653602",
+            "type": "PROCESS",
+            "pid": 8776,
+            "ppid": 952,
+            "name": "ShellExperienceHost.exe",
+            "path": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe",
+            "parent": "svchost.exe",
+            "process_chain": "ShellExperienceHost.exe",
+            "sha256": "28c930ca7d30cc5bdf9d9163e182d41898756a8188f35dc3a1324e49ac17ed5a",
+            "digital_signature": "Unknown",
+            "risk_score": 5,
+            "reasons": [
+                "Invalid Signature (Unknown)",
+                "Executable Writable"
+            ]
+        },
+        {
+            "timestamp": "2026-02-24 01:15:10.006131",
+            "type": "PROCESS",
+            "pid": 9200,
+            "ppid": 952,
+            "name": "StartMenuExperienceHost.exe",
+            "path": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+            "parent": "svchost.exe",
+            "process_chain": "StartMenuExperienceHost.exe -> svchost.exe -> services.exe -> wininit.exe",
+            "sha256": "5d3aeb04a133d6c3db2e171a855e3f1a7a49c5f0440dfab84d984c8084a48932",
+            "digital_signature": "Unknown",
+            "risk_score": 5,
+            "reasons": [
+                "Invalid Signature (Unknown)",
+                "Executable Writable"
+            ]
+        }
+    ]
+}
