@@ -158,6 +158,12 @@ This project simulates how a SOC Analyst:
 
 ---
 
+## Demo Screenshort
+
+![1771878852760](https://github.com/user-attachments/assets/94419ba2-1036-47be-93fd-22d71728407f)
+
+---
+
 ## 👨‍💻 Author
 
 Amir Shaikh
